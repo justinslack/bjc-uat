@@ -1,6 +1,7 @@
 ---
 layout: single-page
 title: BJC News and Media
+description: Read the latest news and media releases from the BUdget Justice Coalition
 ---
 
 <div class="component-wrapper latest-news">

@@ -11,7 +11,7 @@ repo-host: Github
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Styleguide for Budget Justice SA
+description: Budget Justice Coalition SA web site
 author:
   name: Justin Slack
   email: justin@nml.co.za
