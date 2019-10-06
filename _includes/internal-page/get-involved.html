@@ -39,8 +39,8 @@
       </ul>
     </article>
     <h3>Join</h3>
-    <p>To join the Budget Justice Coalition please complete the below membership form.</p>
-    <form action="" method="post" data-netlify="true" netlify-honeypot="bot-field">
+    <p>To join the Budget Justice Coalition please complete the below membership form. All fields are required excep thos emarked optional.</p>
+    <form action="/success/" method="post" data-netlify="true" netlify-honeypot="bot-field" name="join">
       <p class="is-hidden">
         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
       </p>
@@ -50,15 +50,15 @@
       </p>
       <p>
         <label for="surname">Surname</label>
-        <input type="text" name="surname" id="surname" class="text-input">
+        <input type="text" name="surname" id="surname" class="text-input" required>
       </p>
       <p>
         <label for="organisation">Organisation</label>
-        <input type="text" name="organisation" id="organisation" class="text-input">
+        <input type="text" name="organisation" id="organisation" class="text-input" required>
       </p>
       <p>
         <label for="email">Email</label>
-        <input type="email" name="email" id="email" class="text-input">
+        <input type="email" name="email" id="email" class="text-input" required>
       </p>
       <p>
         <label for="telephone">Telephone <small>(Optional)</small></label>
@@ -66,26 +66,26 @@
       </p>
       <p></p>
         <label for="cellphone">Cellphone</label>
-        <input type="tel" name="cellphone" id="cellphone" class="text-input">
+        <input type="tel" name="cellphone" id="cellphone" class="text-input" required>
       </p>
       <div class="input-wrapper">
         <label for="">Membership type</label>
         <p>
-          <input id="individual-membership" class="radio-custom" name="membership-type" type="radio" value="Individual">
+          <input id="individual-membership" class="radio-custom" name="membership-type" type="radio" value="Individual" required>
           <label for="individual-membership" class="radio-custom-label">Individual</label>
         </p>
         <p>
-          <input id="organisation-membership" class="radio-custom" name="membership-type" type="radio" value="Organisation">
+          <input id="organisation-membership" class="radio-custom" name="membership-type" type="radio" value="Organisation" required>
           <label for="organisation-membership" class="radio-custom-label">Organisation</label>
         </p>
       </div>
       <p>
         <label for="">Please provide a brief motivation for your membership</label>
-        <textarea class="text-input" name="" id=""></textarea>
+        <textarea class="text-input" name="" id="" required></textarea>
       </p>
       <p>
         <input id="acceptterms" class="checkbox-custom" name="acceptterms" type="checkbox">
-        <label for="acceptterms" class="checkbox-custom-label">I support the values and principles of the Budget Justice Coaltion.</label>
+        <label for="acceptterms" class="checkbox-custom-label" required>I support the values and principles of the Budget Justice Coaltion.</label>
       </p>
       <p>
         <button type="submit" class="button">Submit</button>
