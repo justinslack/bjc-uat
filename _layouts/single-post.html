@@ -12,8 +12,7 @@ Layout: compress
         <article class="article-body" itemscope="" itemtype="http://schema.org/Article">
           <header class="article-header">
             <h2 class="single-article-header" itemprop="name headline">{{ page.title }}</h2>
-            <time class="article-meta" itemprop="datePublished" datetime="2015-01-07T07:07:21+00:00">{{ page.date | date: "%-d %B %Y" }}</time>
-            <span class="author" itemprop="author">By {{ page.author }}</span>
+            <time class="article-meta" itemprop="datePublished" datetime="{{ page.date | date: "%-d %B %Y" }}">{{ page.date | date: "%-d %B %Y" }}</time>
           </header>
         {{ content }}
         </article>
