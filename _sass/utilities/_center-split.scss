@@ -65,7 +65,7 @@
 .read-more {
   @include font-size(14);
   align-items: center;
-  color: $deep-blush;
+  color: darken($deep-blush, 10%);;
   display: flex;
   text-decoration: none;
   text-transform: uppercase;
