@@ -1,6 +1,8 @@
 # Primary home navigation links
 
 primary:
+  - title: "Advocacy."
+    url: /advocacy/
   - title: "Latest news."
     url: /news/
   - title: "Resources."

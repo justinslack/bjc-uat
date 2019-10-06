@@ -3,8 +3,8 @@ title: BJC reaffirms the need for a rights-oriented budget
 layout: single-post
 category: featured
 date: 05 October 2019
-featured-image: /assets/images/rights-one.png
-thumbnail: /assets/images/rights-one.png
+featured-image: /assets/images/budget-speech.jpg
+thumbnail: /assets/images/budget-speech.jpg
 alt: Rights-oriented budget
 weight: 1
 ---
