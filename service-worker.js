@@ -15,7 +15,10 @@ const cacheList = [
 ];
 
 const offlinePages = [
-  '/'
+  '/',
+  '/news/',
+  'resources/',
+  '/get-involved/'
 ];
 
 function updateStaticCache() {
@@ -28,7 +31,10 @@ function updateStaticCache() {
       '/css/main.css'
     ].concat(offlinePages));
     return cache.addAll([
-      '/'
+      '/',
+      '/news/',
+      'resources/',
+      '/get-involved/'
     ]);
   });
 }
