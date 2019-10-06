@@ -1,0 +1,185 @@
+// Layout options
+
+.content-container {
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+// Toolbar
+
+.toolbar {
+  align-items: center;
+  background-color: white;
+  border: 1px $very-light-grey;
+  border-radius: 50px;
+  box-shadow: 0 10px 20px 0 rgba(0,0,0,0.1);
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  max-width: 1100px;
+  padding: 2rem 3rem;
+  width: 100%;
+}
+
+.toolbar-description {
+  color: $sea-pink;
+  font-weight: 600;
+}
+
+.two-column-text {
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 0 0 2rem;
+
+  @include breakpoint(45em) {
+    columns: 2;
+    column-fill: balance;
+    column-gap: 5rem;
+  }
+  
+  .break {
+    break-before: always;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Accordion
+
+$spacing: 24px;
+$plus-size: 17px;
+$plus-thickness: 2px;
+$speed: 300ms;
+$easing: ease-in-out;
+$gray-dark: #546E7A;
+$gray-light: #ECEFF1;
+
+.details-group {
+  background-color: white;
+  margin: 0 0 4rem;
+}
+
+.details {
+  overflow: hidden;
+  border-bottom: 1px solid $light-grey;
+  transition: height $speed $easing;
+  
+  &:last-child {
+    border-bottom: 0;
+  }
+  
+  &--summary,
+  &--content {
+    padding: $spacing;
+  }
+  
+  &--summary {
+    position: relative;
+    list-style: none; 
+    outline: 0;
+    cursor: pointer;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    transition: color $speed $easing;
+    
+    [open] > & {
+      color: $elf-green;
+    }
+    
+    // Hide the marker in Webkit
+    &::-webkit-details-marker {
+      display: none;
+    }
+    
+    // Our replacement marker
+    &:before,
+    &:after {
+      content: "";
+      position: absolute;
+    }
+    
+    &:before {
+      right: $spacing/2 + $plus-size/2;
+      top: 50%;
+      height: $plus-thickness;
+      margin-top: -$plus-thickness/2;
+      width: $plus-size;
+      background: $elf-green;
+    }
+    
+    &:after {
+      right: 27px;
+      top: 50%;
+      height: $plus-size;
+      margin-top: -$plus-size/2;
+      width: $plus-thickness;
+      margin-left: -$plus-thickness/2;
+      background: $elf-green;
+      transition: all $speed $easing;
+    }
+    
+    [open] &:after {
+      opacity: 0;
+      transform: translateY(25%);
+    }
+  }
+  
+  &--content {
+    padding-top: 0;
+  }
+}
+
+// Glossary
+
+.glossary {
+  position: relative;
+  display: flex;
+  scroll-behavior: smooth;
+}
+
+.glossary-nav {
+  align-self: flex-start;
+  position: sticky;
+  top: 4rem;
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+
+    &.active {
+      font-weight: 600;
+      color: $sea-pink; 
+    }
+
+  }
+
+}
+
+.glossary-definitions {
+  padding-left: 10rem;
+  min-height: 1200px;
+
+  > article:target {
+    padding-top: 4rem;
+  }
+
+  h4 {
+    margin-top: 0;
+  }
+
+
+}
+
+.header-cta {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+}

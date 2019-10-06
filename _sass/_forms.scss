@@ -1,0 +1,222 @@
+// Forms listing page
+
+label {
+  color: $input-color;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+.text-input,
+textarea {
+  @include rem(padding, 10px);
+  border: 1px solid $input-color;
+  border-radius: 3px;
+  max-width: 400px;
+  outline: none;
+  transition: 250ms border  ease-in-out;
+  width: 100%;
+
+  &:focus {
+    border: 1px solid $link-color;
+  }
+}
+
+textarea {
+  height: 200px;
+}
+
+// Custom checkboxes and radio inputs
+
+.checkbox-custom, .radio-custom {
+	height: 15px;
+	opacity: 0;
+	position: absolute;
+	width: 15px;
+	z-index: 999;
+}
+
+.checkbox-custom, .checkbox-custom-label, .radio-custom, .radio-custom-label {
+	@include rem('margin', 0 10px 0 0);
+	align-items: center;
+	color: #666;
+	cursor: pointer;
+	display: inline-block;
+}
+
+.checkbox-custom-label, .radio-custom-label {
+		position: relative;
+}
+
+.checkbox-custom + .checkbox-custom-label:before, .radio-custom + .radio-custom-label:before {
+	background: #fff;
+	border-radius: 100%;
+	border: 1px solid $sea-pink;
+	content: '';
+	cursor: pointer;
+	display: inline-block;
+	height: 1rem;
+	margin-right: 0.5rem;
+	position: relative;
+	text-align: center;
+	transform: translateY(-1px);
+	transition: all 250ms ease;
+	vertical-align: middle;
+	width: 1rem;
+}
+
+.checkbox-custom + .checkbox-custom-label:before {
+	border-radius: 4px;
+}
+
+.checkbox-custom:checked + .checkbox-custom-label:before {
+	@include font-size(12);
+	@include rem(line-height, 14px);
+	background-color: $sea-pink;
+	border-color: $sea-pink;
+	color: white;
+	content: "\2713";
+	font-weight: 600;
+}
+
+.radio-custom + .radio-custom-label:before {
+		border-radius: 50%;
+}
+
+.radio-custom:checked + .radio-custom-label:before {
+	background: $sea-pink;
+	border-color: $sea-pink;
+	box-shadow: inset 0px 0px 0px 2px #fff;
+}
+
+.checkbox-custom:focus + .checkbox-custom-label, .radio-custom:focus + .radio-custom-label {
+	// outline: 1px solid $border-color;
+}
+
+// Disabled
+
+.checkbox-custom[disabled] + .checkbox-custom-label:before,
+.checkbox-custom[disabled] {
+	background-color: transparent;
+	border-color: #dedede;
+}
+
+.radio-custom[disabled] + .radio-custom-label:before,
+.radio-custom[disabled] {
+	background-color: #dedede;
+	border-color: #dedede;
+	box-shadow: inset 0px 0px 0px 2px #fff;
+	cursor: not-allowed;
+}
+
+.checkbox-custom[disabled] + .checkbox-custom-label,
+.radio-custom[disabled] + .radio-custom-label {
+	color: #dedede;
+}
+
+// Selects
+
+.select-span {
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+	width: 100%;
+	max-width:400px;
+
+	&::after {
+		border-style: solid;
+		border-width: 5px 5px 0;
+		border-color: #808080 transparent transparent;
+		content: "";
+		display: block;
+		height: 7px;
+		pointer-events: none;
+		position: absolute;
+		right: 10px;
+		top: 45%;
+		width: 0;
+		z-index: 12;
+	}
+
+	[disabled] {
+		background-color: rgba(0, 0, 0, 0.1);
+		cursor: not-allowed;
+		opacity: 0.4;
+	}
+
+	select {
+		@include rem('padding', 12px 36px 12px 8px);
+		border-radius: 0;
+		background: white;
+		border: 2px solid $border-color;
+		color: $base-color;
+		cursor: pointer;
+		display: inline-block;
+		font-family: inherit;
+		font-weight: 400;
+		outline: none;
+		overflow: hidden;
+		position: relative;
+		vertical-align: middle;
+		width: 100%;
+		z-index: 1;
+		-moz-appearance: none;
+		-webkit-appearance: none;
+
+		&::-ms-expand {
+			display: none;
+		}
+
+		&.error {
+			border-color: red;
+		}
+
+		[disabled] {
+			background-color: rgba(0, 0, 0, 0.2);
+			cursor: not-allowed;
+			opacity: 0.4;
+		}
+
+		&:focus {
+			border: 2px solid $upsdell-red;
+			outline: 0;
+		}
+
+	}
+
+	&.small-select {
+		padding: 0;
+		font-size: 12px;
+		height: 32px;
+		width: auto;
+
+		+ .small-select {
+			margin-left: 0.5rem;
+		}
+
+		&::after {
+			right: 5px;
+			top: 45%;
+		}
+
+		select {
+			@include rem(padding, 0 14px 0 8px);
+			border: 1px solid $border-color;
+			font-weight: 400 !important;
+			height: 32px;
+			min-width: 40px;
+			width: auto;
+		}
+
+	}
+
+}
+
+// Form layout elements
+
+.input-wrapper p {
+	margin: 0 0 1rem;
+} 
+
+
+
+

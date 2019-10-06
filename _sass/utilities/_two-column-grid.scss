@@ -1,0 +1,49 @@
+// Two column grid
+
+.two-column-grid {
+
+  @include breakpoint(45em) {
+    display: grid;
+    @include rem(grid-gap, 64px);
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 1fr;
+  }
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.grid-item-figure {
+
+  img {
+    box-shadow: 0 2px 50px rgba(0, 0, 0, .19);
+    height: 300px;
+    object-fit: cover;
+    max-width: 100%;
+    transition: .3s all ease-in-out;
+    width: 100%;
+
+    &:hover {
+      box-shadow: 0 2px 50px rgba(0, 0, 0, .5);
+    }
+  }
+}
+
+.grid-content {
+  @include rem(padding, 32px 0);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.resource-item {
+  @include rem(padding, 32px);
+  border: 1px solid $border-color;
+  box-shadow: 0 2px 50px rgba(0,0,0,0.19);
+}
+
+.grid-item-header {
+  margin-top: 0.5rem;
+}

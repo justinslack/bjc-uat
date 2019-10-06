@@ -1,0 +1,445 @@
+// Display
+
+.is-block {
+  display: block !important;
+}
+
+.is-hidden {
+  display: none;
+}
+
+/**
+ * Completely remove from the flow but leave available to screen readers.
+ */
+
+.is-hiddenVisually {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+}
+
+.is-inline {
+  display: inline !important;
+}
+
+/**
+ * 1. Fix for Firefox bug: an image styled `max-width:100%` within an
+ * inline-block will display at its default size, and not limit its width to
+ * 100% of an ancestral container.
+ */
+
+.is-inlineBlock {
+  display: inline-block !important;
+  max-width: 100%; /* 1 */
+}
+
+.is-table {
+  display: table !important;
+}
+
+.is-tableCell {
+  display: table-cell !important;
+}
+
+.is-tableRow {
+  display: table-row !important;
+}
+
+.align-right {
+  text-align: right !important;
+}
+
+.align-left {
+  text-align: left !important;
+}
+
+.align-center {
+  text-align: center !important;
+}
+
+.micro-copy {
+  @include rem(padding, 10px 0 0);
+  @include font-size(14);
+  font-style: italic;
+  list-style-position: inside;
+}
+
+// Spinner
+
+.spinner {
+  animation: loading .75s linear infinite;
+  color: transparent;
+  height: 4.4rem;
+  width: 4.4rem;
+}
+
+.spinner-color-teal {
+  fill: $elf-green;
+}
+
+.spinner-color-white {
+  fill: white;
+}
+
+
+.spinner-medium {
+  height: 3rem;
+  width: 3rem;
+}
+
+.spinner-small {
+  height: 2rem;
+  width: 2rem;
+}
+
+// Center items
+
+.centered-items {
+  text-align: center;
+}
+
+@keyframes loading {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.graph-switcher {
+  margin: 1.25rem 1.25rem 0 auto;
+  background-color: $light-grey;
+  border-radius: 100px;
+  border: 0;
+  height: 26px;
+  width: 48px;
+  position: relative;
+  transition: all 0.2s ease-in-out;
+
+  &::before {
+    background: #ffffff;
+    border-radius: 100px;
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+    content: "";
+    display: inline-block;
+    height: 20px;
+    left: 2px;
+    margin-left: 2px;
+    margin-top: 2px;
+    pointer-events: none;
+    position: absolute;
+    top: 1px;
+    transition: all 0.2s ease-in-out;
+    width: 20px;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  &.graph-switched {
+    background: $elf-green;
+    &::before {
+      transform: translateX(100%);
+    }
+  }
+
+  span {
+    @include font-size(14);
+    display: block;
+    position: absolute;
+    right: 55px;
+    text-align: right;
+    top: 2px;
+    min-width: 205px;
+  }
+
+}
+
+// pagination
+
+.pagination {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.pagination li {
+  display: none;
+  margin: 0 .2em;
+}
+
+.pagination li.button {
+  display: inline-block;
+}
+
+.pagination a, .pagination span {
+  display: inline-block;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: .6em .8em;
+}
+
+.pagination li a {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.25em;
+  font-weight: 400;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #f2f2f2;
+    text-decoration: none;
+  }
+}
+
+.pagination a:active {
+  -webkit-transform: scale(0.9);
+  -moz-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  -o-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+.pagination a.disabled {
+  color: rgba(46, 64, 87, 0.4);
+  pointer-events: none;
+}
+
+.pagination a.disabled::before, .pagination a.disabled::after {
+  opacity: .4;
+}
+
+.pagination .paginate-button:first-of-type a::before {
+  content: '\00ab';
+}
+
+.pagination .paginate-button:last-of-type a::after {
+  content: ' \00bb';
+}
+
+.pagination .current, .pagination .active a {
+  background-color: $elf-green;
+  border-color: $elf-green;
+  color: #ffffff;
+  pointer-events: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .pagination li {
+    display: inline-block;
+  }
+}
+
+@media only screen and (min-width: 1170px) {
+  .pagination {
+    margin: 2em auto;
+  }
+}
+
+// Speech bubble
+
+.contact-cta {
+  @include rem(max-width, 345px);
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  text-align: left;
+
+  svg {
+    @include rem(margin, 15px 0 20px 29px);
+    height: 50px;
+    width: 50px;
+  }
+
+  &:focus {
+    outline: none;
+
+    .speech-bubble {
+      transform: translateY(-2px);
+    }
+  }
+}
+
+// Content loading state
+
+.mbm {
+  margin-bottom: 10px;
+}
+
+._4-u2 {
+  background: #fff;
+  border-radius: 3px;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+._2iwo {
+  min-height: 120px;
+  padding: 12px;
+}
+
+._2iwq {
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: #f6f7f8;
+  background-image: linear-gradient(to left, darken(#f6f7f8, 1%) 0%, darken(#edeef1, 1%) 20%, darken(#f6f7f8, 1%) 40%, darken(#f6f7f8, 1%) 100%);
+  background-repeat: no-repeat;
+  background-size: 800px 104px;
+  height: 104px;
+  position: relative;
+}
+
+._2rtk ._2iwq {
+  animation-name: prideShimmer;
+  background-image: linear-gradient(135deg, red 0%, orange 15%, yellow 30%, green 45%, blue 60%, indigo 75%, violet 80%, red 100%);
+  background-repeat: repeat;
+  background-size: 50% auto;
+}
+
+.direction_rtl ._2iwq {
+  animation-direction: reverse;
+}
+
+._2iwq div {
+  background: #fff;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+
+div._2iwr {
+  height: 40px;
+  left: 40px;
+  right: auto;
+  top: 0;
+  width: 8px;
+}
+
+div._2iws {
+  height: 8px;
+  left: 48px;
+  top: 0;
+}
+
+div._2iwt {
+  left: 136px;
+  top: 8px;
+}
+
+div._2iwu {
+  height: 12px;
+  left: 48px;
+  top: 14px;
+}
+
+div._2iwv {
+  left: 100px;
+  top: 26px;
+}
+
+div._2iww {
+  height: 10px;
+  left: 48px;
+  top: 32px;
+}
+
+div._2iwx {
+  height: 20px;
+  top: 40px;
+}
+
+div._2iwy {
+  left: 410px;
+  top: 60px;
+}
+
+div._2iwz {
+  height: 13px;
+  top: 66px;
+}
+
+div._2iw- {
+  left: 440px;
+  top: 79px;
+}
+
+div._2iw_ {
+  height: 13px;
+  top: 85px;
+}
+
+div._2ix0 {
+  left: 178px;
+  top: 98px;
+}
+
+@keyframes placeHolderShimmer {
+  0% {
+    background-position: -468px 0;
+  }
+
+  100% {
+    background-position: 468px 0;
+  }
+}
+@keyframes prideShimmer {
+  from {
+    background-position: top left;
+  }
+
+  to {
+    background-position: top right;
+  }
+}
+
+// Content editable
+
+.content-edit-fields {
+  @include rem(padding, 30px 40px);
+  @include rem(margin, 40px 0);
+  background-color: white;
+  border: 1px solid $border-color;
+}
+
+// Text
+
+.small-text {
+  @include font-size(11);
+}
+
+// iFrame
+
+iframe {
+  border: 0;
+}
+
+//  Actions
+
+.succesful-action {
+  @include font-size(14);
+  @include rem(margin, 10px 0 0);
+  display: block;
+  font-style: italic;
+
+  &::before {
+    @include font-size(16);
+    content: "\2713";
+    color: $elf-green;
+    font-weight: bold;
+  }
+
+}
+
+.mandate {
+  @include rem(margin, 24px 0);
+}

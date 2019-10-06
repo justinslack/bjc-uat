@@ -1,0 +1,22 @@
+//  Alerts and timeouts
+
+.sessionTimeoutWarning, .general-alert {
+  align-items: center;
+  background: #eee;
+  border-left: 2px solid $elf-green;
+  color: $elf-green;
+  display: flex;
+  justify-content: flex-start;
+  padding: 1rem;
+  transition: all 0.5s;
+  width: 100%;
+
+  &.close-timeout {
+    justify-content: space-between;
+  }
+
+  .text-button, a {
+    @include rem(margin, 0 5px);
+  }
+
+}

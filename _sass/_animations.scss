@@ -1,0 +1,108 @@
+/* ------------------------
+------- Animations --------
+------------------------ */
+
+.animated {
+	-webkit-animation-duration: 0.2s;
+	animation-duration: 0.2s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+
+@keyframes flipInX {
+	from {
+		transform: perspective(400px) rotate3d(1, 0, 0, 45deg);
+		animation-timing-function: ease-in;
+		opacity: 0;
+	}
+
+	40% {
+		transform: perspective(400px) rotate3d(1, 0, 0, 35deg);
+		animation-timing-function: ease-in;
+	}
+
+	60% {
+		transform: perspective(400px) rotate3d(1, 0, 0, 25deg);
+		animation-timing-function: ease-in;
+		opacity: 1;
+	}
+
+	80% {
+		transform: perspective(400px) rotate3d(1, 0, 0, 15deg);
+		animation-timing-function: ease-in;
+	}
+
+	to {
+		transform: perspective(400px);
+	}
+}
+
+@keyframes blind-in {
+	from {
+		transform: scaleY(0);
+	}
+	to {
+		transform: scaleY(1);
+	}
+}
+
+.blind-in {
+	transform-origin: top;
+	animation: blind-in 0.4s;
+}
+
+@keyframes easein {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes easein {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes easein {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes easein {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes easein {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@keyframes logo {
+	0% { transform: rotateY(0deg); }
+	100% { transform: rotateY(360deg); }
+}
+
+@keyframes bounce {
+	0% { transformY: 0px; }
+	100% { transformY: -1px; }
+}
+
+
+@keyframes bar {
+	0% {
+    transform: scaleX(0);
+    transform-origin: left;
+	}
+	6%, 100% {
+    transform: scaleX(1);
+    transform-origin: left;
+	}
+}
+
+@keyframes fadeIn {
+	0% { opacity: 0 }
+	100% { opacity: 1 }
+}

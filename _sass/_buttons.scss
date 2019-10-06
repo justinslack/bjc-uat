@@ -1,0 +1,177 @@
+// Button styles, including links styled as buttons
+
+button,
+input[type="submit"],
+input[type="button"] {
+  &:focus {
+    outline: 1px dotted $light-grey;
+  }
+}
+
+.button {
+  @include rem(padding, 0 40px);
+  @include font-size(16);
+  @include rem(min-height, 50px);
+  @include rem(min-width, 200px);
+  align-items: center;
+  background-color: $button-color;
+  background: linear-gradient(to bottom, $button-color 1%, darken($button-color, 5%) 100%);
+  border: 0;
+  border-radius: 25px;
+  color: white;
+  display: flex;
+  font-family: inherit;
+  font-weight: 400;
+  justify-content: center;
+  text-decoration: none;
+  transition: all 250ms ease-in;
+  width: auto;
+
+  + .button {
+    @include rem(margin, 0 0 0 15px);
+  }
+
+  &.button-large-cta {
+    @include rem(min-height, 50px);
+    @include font-size(18);
+    @include rem(max-width, 200px);
+  }
+
+  &.button-outline {
+    @include rem(padding, 10px 18px);
+    background: white;
+    border: 2px solid $button-hover-color;
+    color: $button-color;
+
+    &:hover {
+      border-color: $button-hover-color;
+    }
+
+  }
+
+  &:hover, &:focus {
+    background: linear-gradient(to bottom, darken($button-color, 8%) 1%, darken($button-color, 5%) 100%);
+    color: white;
+    text-decoration: none;
+  }
+
+  &.block-button {
+    display: block;
+    width: 100%;
+  }
+
+  &.button-small {
+    @include rem(padding, 7px 20px);
+    @include font-size(14);
+    @include rem(min-height, 30px);
+    @include rem(height, 36px);
+    @include rem(min-width, 120px);
+  }
+
+  &.warning-button {
+    background-color: $warning;
+
+    &:hover, &:focus {
+      background-color: darken($warning, 5%);
+    }
+
+  }
+
+  &.alert-button {
+    background-color: $alert;
+
+    &:hover, &:focus {
+      background-color: darken($alert, 10%);
+    }
+
+  }
+
+  &.success-button {
+    background-color: $success;
+
+    &:hover, &:focus {
+      background-color: darken($success, 10%);
+    }
+
+  }
+
+  &.neutral-button {
+    background-color: $light-grey;
+    color: $light-grey;
+  }
+
+  &:focus {
+    outline: 1px dotted black;
+  }
+
+  &.reset {
+    background-color: $very-light-grey;
+    color: $base-color;
+  }
+
+}
+
+button[disabled] {
+  background-color: #e6e6e6;
+  border-color: #e6e6e6;
+  color: #cccccc;
+  cursor: not-allowed;
+
+  &:hover {
+    box-shadow: none;
+  }
+
+}
+
+.toolbar-button {
+  @include font-size(12);
+  background-color: transparent;
+  border: 1px solid $button-color;
+  border-radius: 25px;
+  color: $button-color;
+  font-weight: 400;
+  height: 45px;
+  padding: 0 1rem;
+  position: relative;
+  transition: box-shadow 250ms ease-in;
+
+  &:hover {
+    box-shadow: 0 0 0 1px $button-color;
+  }
+
+}
+
+.center-button {
+  display: block;
+  margin: 0 auto;
+  max-width: 170px;
+}
+
+// unstyled
+
+.unstyled-button {
+  background-color: transparent;
+  border: 0;
+  padding: 0;
+
+  &:hover, &:focus {
+    background-color: transparent;
+    outline: none;
+  }
+
+}
+
+.text-button {
+  background: transparent;
+  border: none;
+  color: $link-color;
+  font-weight: 400;
+  padding: 0;
+  text-decoration: underline;
+
+  &:hover, &:focus {
+    background: transparent;
+    color: $link-hover-color;
+  }
+
+}

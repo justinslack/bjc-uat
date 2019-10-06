@@ -1,0 +1,229 @@
+::-moz-selection {
+	background: $elf-green;
+	color: white;
+}
+
+::selection {
+	background: $elf-green;
+	color: white;
+}
+
+
+
+// --------------------------- Font-Scaling Algorithm ----------------------------
+// For the general strategy: https://www.codementor.io/ricardozea/100-responsive-typography-system-using-a-modular-scale-s5rhft58g
+// Explanation contained herein: https://www.madebymike.com.au/writing/precise-control-responsive-typography/
+
+// -------------
+// Min and max viewport sizes to apply the font scaling
+$min_width: 320;
+$max_width: 1400;
+// --------------
+
+// --------------
+// Range of font size to apply
+$min_font: 13;
+$max_font: 16;
+// --------------
+
+html {
+  font-size: #{$min_font}px;
+}
+
+// Media queries
+// -------------
+
+@media (min-width: #{$min_width}px) and (max-width: #{$max_width}px) {
+  html {
+    font-size: calc(
+      #{$min_font}px + (#{$max_font} - #{$min_font}) *
+        ((100vw - #{$min_width}px) / (#{$max_width} - #{$min_width}))
+    );
+  }
+}
+
+@media (min-width: #{$max_width}px) {
+  html {
+    font-size: #{$max_font}px;
+  }
+}
+
+.coming-soon-header {
+	color: $elf-green;
+	margin-top: 3rem;
+
+	@include breakpoint(769px) {
+		margin-top: 0;
+	}
+
+}
+
+h1 {
+  font-size: 2.712em;
+  line-height: calc(18px + 5.8vw);
+}
+
+h2 {
+  font-size: 1.616em;
+  line-height: calc(18px + 1vw);
+}
+
+h3 {
+  font-size: 1.471em;
+  line-height: calc(18px + 0.7vw);
+}
+
+h4 { font-size: 1.3em; }
+h5 { font-size: 1.243em; }
+h6 { font-size: 1.132em; }
+
+h4, h5, h6 {
+  line-height: calc(18px + .2vw);
+}
+
+a {
+	color: $link-color;
+
+	&:hover, &:active {
+		color: $link-hover-color;
+	}
+
+	 &:focus {
+    outline: 1px dotted black;
+  }
+
+}
+
+p,
+ul,
+ol,
+dl {
+	margin: 0 0 1.75em 0;
+}
+
+figure {
+	margin: 0;
+}
+
+p {
+	font-weight: 400;
+}
+
+ol,
+ul {
+	padding-left: 0;
+}
+
+ol ol,
+ul ul,
+ul ol,
+ol ul {
+	margin: 0 0 0.4em 0;
+	padding-left: 1em;
+}
+
+dl {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+dt {
+  width: 33%;
+}
+
+dd {
+  margin-left: auto;
+  width: 66%;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #dadada;
+	margin: 2.2em 0;
+	padding: 0;
+}
+
+hr.less-space{
+	margin-bottom: 0;
+}
+
+hr.no-margin {
+	margin: 0;
+}
+
+mark {
+	background-color: #fdffb6
+}
+
+kbd {
+	display: inline-block;
+	margin-bottom: 0.4em;
+	padding: 1px 8px;
+	border: #CCC 1px solid;
+	color: #666;
+	text-shadow: #FFF 0 1px 0;
+	font-size: 0.9em;
+	font-weight: 700;
+	background: #F4F4F4;
+	border-radius: 4px;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset;
+}
+
+// Misc
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+blockquote {
+	@include rem(padding, 10px 24px);
+	@include rem(margin, 24px 0);
+	border-left: 0.5rem solid $elf-green;
+}
+
+// abbr {
+// 	cursor: help;
+// 	position: relative;
+	
+// 	&:hover::after {
+// 		background: $elf-green;
+// 		border-radius: 5px;
+// 		bottom: 100%;
+// 		color: white;
+// 		content: attr(title);
+// 		display: block;
+// 		font-size: 0.75em;
+// 		left: 50%;
+// 		min-width: 8rem;
+// 		padding: 1em;
+// 		position: absolute;
+// 	}
+// }
+
+// Custom headers
+	
+.section-header {
+	font-size: 3em;
+	line-height: 1.2;
+	max-width: 1100px;
+
+	&::after {
+		background-color: $sea-pink;
+		content: "";
+		display: block;
+		height: 8px;
+		transform: translateY(1rem);
+		width: 6rem;
+	} 
+
+}
+
+.center-header {
+	text-align: center;
+}
+
+.header-white, .copy-white {
+	color: white;
+}

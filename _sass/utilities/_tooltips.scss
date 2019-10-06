@@ -1,0 +1,134 @@
+// tooltips
+
+$border-radius: 5px;
+$tooltip-background-color: $sea-pink;
+$tooltip-text-color: #fff;
+$triangle-size: 8px;
+$tooltip-distance: 0.5rem;
+$tool-tip-font-size: 0.75rem;
+
+[data-tooltip][aria-description]::before {
+  content: attr(aria-description);
+  display: none;
+}
+
+[data-tooltip][aria-description]:hover::before,
+[data-tooltip][aria-description]:focus::before {
+  display: block;
+}
+
+
+[data-tooltip][aria-description] {
+  position: relative;
+
+  &::before,
+  &::after {
+    left: 50%;
+    opacity: 0;
+    position: absolute;
+    top: calc(100% + #{$tooltip-distance});
+    transition:
+      opacity 0.15s ease-in-out,
+      visibility 0s 0.15s ease-in-out;
+    visibility: hidden;
+  }
+
+  &::before {
+    border-bottom: $triangle-size solid $tooltip-background-color;
+    border-left: $triangle-size solid transparent;
+    border-right: $triangle-size solid transparent;
+    content: '';
+    height: 0;
+    transform:
+      translateX(-50%)
+      translateY(calc(-100% + 1px)); // {1}
+    width: 0;
+    z-index: 1;
+  }
+
+  &::after {
+    background-color: $tooltip-background-color;
+    border-radius: $border-radius;
+    color: $tooltip-text-color;
+    content: attr(aria-description);
+    font-size: $tool-tip-font-size;
+    padding: 0.5em;
+    transform: translate3d(-50%, 0, 0);
+    white-space: nowrap;
+    z-index: 1;
+  }
+
+  &:hover,
+  &:focus {
+    &::before,
+    &::after {
+      opacity: 1;
+      transition: opacity 0.15s ease-in-out;
+      visibility: visible;
+    }
+  }
+
+  &[data-tooltip-position="top"] {
+    &::before,
+    &::after {
+      bottom: calc(100% + #{$tooltip-distance});
+      top: auto;
+    }
+
+    &::before {
+      transform:
+        translateX(-50%)
+        translateY(calc(100% - 1px))
+        rotateZ(180deg);
+    }
+  }
+
+  &[data-tooltip-position="left"] {
+    &::before,
+    &::after {
+      left: 0;
+      top: 50%;
+    }
+
+    &::before {
+      transform:
+        translateX(calc(-100% - 1px))
+        translateY(-50%)
+        rotateZ(90deg);
+    }
+
+    &::after {
+      transform:
+        translateX(calc(-100% - #{$tooltip-distance}))
+        translateY(-50%);
+    }
+  }
+
+  &[data-tooltip-position="right"] {
+    &::before,
+    &::after {
+      left: auto;
+      right: 0;
+      top: 50%;
+    }
+
+    &::before {
+      transform:
+        translateX(calc(100% + 1px))
+        translateY(-50%)
+        rotateZ(270deg);
+    }
+
+    &::after {
+      transform:
+        translateX(calc(100% + #{$tooltip-distance}))
+        translateY(-50%);
+    }
+  }
+  @media (hover: none) {
+    &::before,
+    &::after {
+      content: none;
+    }
+  }
+}

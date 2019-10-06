@@ -1,2 +1,2 @@
-# bjc-uat
-UAT for BJC web site
+# design
+Repo for design assets etc

@@ -1,0 +1,20 @@
+# Primary home navigation links
+
+primary:
+  - title: "Latest news."
+    url: /news/
+  - title: "Resources."
+    url: /resources/
+  - title: "About us."
+    url: /about/
+
+resources:
+  - title: "Tools"
+    url: /tools/
+  - title: "Glossary"
+    url: /glossary/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Links"
+    url: /links/
+

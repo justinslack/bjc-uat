@@ -1,0 +1,71 @@
+# ----
+# Site
+
+title: Budget Justice Coalition South Africa
+subtitle: 
+url: https://budget-justice-coalition.github.io/design/
+baseurl: ""
+show_full_navigation: true
+repository: budget-justice-coalition/design
+repo-host: Github
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Styleguide for Budget Justice SA
+author:
+  name: Justin Slack
+  email: justin@nml.co.za
+# -----
+# Build
+
+include: ["_pages"]
+
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-autoprefixer
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+sass:
+  style: compressed
+  sourcemap: true
+
+collections:
+  media:
+    title: Media
+    permalink: /:collection/:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "components"
+    values:
+      layout: styles
+      seo:
+        type: Article
+      _comments:
+        category: Group navigation links with this field
+        order: Used to sort links in the navigation
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      _comments:
+        type: Marks the impact of this release
+

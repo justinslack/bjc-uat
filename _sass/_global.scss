@@ -1,0 +1,130 @@
+// Some global things
+
+html {
+  background-color: white;
+  box-sizing: border-box;
+  height: 100%;
+  scroll-behavior: smooth;
+  max-height: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+  background-color: white;
+  border-top: 4px solid $sea-pink;
+  color: $base-color;
+  font-family: $base-font-family;
+  font-weight: 400;
+  height: 100%;
+  letter-spacing: 0.01rem;
+  line-height: $line-height;
+  max-height: 100%;
+}
+
+a {
+  color: $link-color;
+
+  &:hover {
+    color: $link-hover-color;
+  }
+
+  &:focus {
+    outline: 1px dotted;
+  }
+
+}
+
+img {
+  max-width: 100%;
+}
+
+// Site wide elements
+
+.top-header {
+  background-color: #fff;
+  margin-bottom: 6rem;
+  padding: 1rem;
+  width: 100%;
+  z-index: 99;
+}
+
+.header-elements {
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+
+  @include breakpoint(55em) {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    @include rem('padding', 8px 0);
+  }
+
+}
+
+
+.logo {
+  align-items: center;
+  display: flex;
+  text-decoration: none;
+
+  svg {
+    vertical-align: middle;
+  }
+}
+
+.logo-word-mark {
+  margin-left: 0.5rem;
+}
+
+// Layout items
+
+.component-wrapper {
+  @include rem(padding, 0 16px);
+  padding-bottom: 5rem;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+}
+
+// Coming soon (to be removed)
+
+.coming-soon-grid {
+  border-top: 1px solid transparent;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 1.5rem;
+
+  @include breakpoint(769px) {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+  }
+
+  > div {
+    flex: 1 0 0;
+    margin: auto;
+
+    &:last-of-type {
+      object-fit: cover;
+
+      @include breakpoint(769px) {
+        display: flex;
+        flex: 1 0 20%;
+      }
+    }
+
+    img {
+      width: 100%;
+    }
+
+  }
+
+}

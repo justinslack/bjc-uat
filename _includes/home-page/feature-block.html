@@ -1,0 +1,26 @@
+<section class="center-split home-feature">
+  {% for post in site.media %}
+  {% unless post.categories contains 'standard' %}
+  <article>
+    <figure class="split-image">
+      <img src="{{ post.featured-image }}" alt="{{ post.alt}}" />
+    </figure>
+  </article>
+  <article>
+    <div class="center-split-copy">
+      <h1 class="center-split-header">{{ post.title }}</h1>
+      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>'}}</p>
+      <a href="{{ post.url }}" class="read-more">
+        Read more {{ post.link-name }}
+        <svg class="read-more-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="8" viewBox="0 0 20 8">
+          <g fill="#E05363" fill-rule="evenodd">
+            <rect width="14.545" height="1.6" y="3.2"/>
+            <polygon points="14.546 0 20 4 14.547 7.999"/>
+          </g>
+        </svg>        
+      </a>
+    </div>
+  </article>
+  {% endunless %}
+  {% endfor %}
+</section>

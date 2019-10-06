@@ -1,0 +1,21 @@
+// Generic grids all go here
+
+// Simple gallery grid
+
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-column-gap: 3rem;
+  grid-row-gap: 2rem;
+  padding: 3rem 0 5rem;
+
+  a {
+    margin: auto;
+  }
+
+  img {
+    display: block;
+    object-fit: cover;
+  }
+
+}

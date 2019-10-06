@@ -1,0 +1,16 @@
+---
+Layout: compress
+---
+
+	{% include header.html %}
+
+	<body>
+  <div class="site-wrapper">
+  {% include nav.html %}
+  {% include internal-page/resource-nav.html %}
+	{{ content }}
+	{% include site-wide/footer.html  %}
+	</div>
+	<script src="/scripts/app.js"></script>
+	</body>
+</html>

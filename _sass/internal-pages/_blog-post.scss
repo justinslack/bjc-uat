@@ -1,0 +1,58 @@
+// Blog posts
+
+// Landing page
+
+.news-feature {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-position: 50%;
+  background-size: cover;
+  height: 40vh;
+  min-height: 600px;
+  margin-bottom: 6rem;
+  position: relative;
+  width: 100%;
+}
+
+.news-feature-container {
+  color: white;
+  width: 100%;
+}
+
+.article-container {
+  max-width: 70ch;
+  margin: 0 auto;
+  padding: 0 1rem 7rem;
+}
+
+.article-body {
+  @include rem(padding, 20px 0);
+
+  figcaption {
+    display: block;
+    font-size: 0.875rem;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+}
+
+.article-header {
+  margin-bottom: 3rem;
+}
+
+.aside-similar {
+
+  ul {
+    list-style-type: none;
+  }
+}
+
+.single-article-header {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0;
+}
