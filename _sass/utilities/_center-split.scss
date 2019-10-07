@@ -65,13 +65,18 @@
 .read-more {
   @include font-size(14);
   align-items: center;
-  color: darken($deep-blush, 10%);;
-  display: flex;
+  border: 2px solid darken($deep-blush, 10%);
+  color: darken($deep-blush, 10%);
+  display: inline-flex;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
   text-decoration: none;
   text-transform: uppercase;
   transition: all 250ms ease-in-out;
+  width: 10rem;
 
   &:hover {
+    border: 2px solid $elf-green;
+
     .read-more-icon {
       transform: translateX(16px);
 
