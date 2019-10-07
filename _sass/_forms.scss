@@ -218,5 +218,63 @@ textarea {
 } 
 
 
+// Nasty iOS hack to prevent zooming on inputs
+
+// /* iPhone 5, 5C, 5S, iPod Touch 5g */
+@media screen and (device-aspect-ratio: 40/71) {
+	select, textarea, input[type="text"], input[type="password"],
+	input[type="datetime"], input[type="datetime-local"],
+	input[type="date"], input[type="month"], input[type="time"],
+	input[type="week"], input[type="number"], input[type="email"],
+	input[type="url"]{
+		font-size: 16px;
+	}
+}
+
+// /* iPhone 6, iPhone 6s, iPhone 7 portrait/landscape */
+@media screen and (device-aspect-ratio: 375/667) {
+	select, textarea, input[type="text"], input[type="password"],
+	input[type="datetime"], input[type="datetime-local"],
+	input[type="date"], input[type="month"], input[type="time"],
+	input[type="week"], input[type="number"], input[type="email"],
+	input[type="url"]{
+		font-size: 16px;
+	}
+}
+
+// /* iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus portrait/landscape */
+@media screen and (device-aspect-ratio: 9/16) {
+	select, textarea, input[type="text"], input[type="password"],
+	input[type="datetime"], input[type="datetime-local"],
+	input[type="date"], input[type="month"], input[type="time"],
+	input[type="week"], input[type="number"], input[type="email"],
+	input[type="url"]{
+		font-size: 16px;
+	}
+}
+
+// Remove search icons
+
+input[type=text]::-ms-clear,
+input[type=search]::-ms-clear,
+::-ms-clear {
+	display: none;
+}
+
+input[type=text]::-webkit-search-decoration,
+input[type=text]::-webkit-search-cancel-button,
+input[type=text]::-webkit-search-results-button,
+input[type=text]::-webkit-search-results-decoration,
+input[type=search]::-webkit-search-decoration,
+input[type=search]::-webkit-search-cancel-button,
+input[type=search]::-webkit-search-results-button,
+input[type=search]::-webkit-search-results-decoration {
+	display: none;
+}
+
+input[type=search].fund-search-input {
+	box-sizing: border-box;
+}
+
 
 
