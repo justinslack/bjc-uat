@@ -189,7 +189,7 @@ $gray-light: #ECEFF1;
   border-left: 0;  
   border-right: 0;
   color: $elf-green;
-  display: flex;
+  display: block;
   padding: 2rem 1rem;
   text-decoration: none;
   transition: all 250ms ease-in-out;
@@ -202,7 +202,9 @@ $gray-light: #ECEFF1;
     background-color: $off-white;
   }
 
+
   svg {
+    float: left;
     margin-right: 1.5rem;
   }
 
