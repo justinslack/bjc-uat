@@ -174,7 +174,6 @@ $gray-light: #ECEFF1;
     margin-top: 0;
   }
 
-
 }
 
 .header-cta {
@@ -182,4 +181,29 @@ $gray-light: #ECEFF1;
   display: flex;
   justify-content: space-between;
   margin-bottom: 3rem;
+}
+
+.download-link {
+  align-items: center;
+  border-bottom: 1px dotted $deep-blush;
+  border-left: 0;  
+  border-right: 0;
+  color: $elf-green;
+  display: flex;
+  padding: 2rem 1rem;
+  text-decoration: none;
+  transition: all 250ms ease-in-out;
+
+  &:first-of-type {
+    border-top: 1px dotted $deep-blush;
+  }
+ 
+  &:hover {
+    background-color: $off-white;
+  }
+
+  svg {
+    margin-right: 1.5rem;
+  }
+
 }
