@@ -18,7 +18,7 @@ description: Read the latest news and media releases from the BUdget Justice Coa
       <article class="grid-item news-item">
         <figure class="grid-item-figure">
           <a href="{{ post.url }}">
-            <img src="{{ post.thumbnail }}" alt="{{ post.alt }}">
+            <img src="{{ post.thumbnail }}" alt="{{ post.alt }}" loading="lazy">
           </a>
         </figure>
         <div class="grid-content">
