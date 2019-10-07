@@ -16,6 +16,9 @@ textarea {
   transition: 250ms border  ease-in-out;
   width: 100%;
 
+	-webkit-appearance: none;  
+  -webkit-border-radius: 0px;
+
   &:focus {
     border: 1px solid $link-color;
   }
@@ -88,9 +91,9 @@ textarea {
 	box-shadow: inset 0px 0px 0px 2px #fff;
 }
 
-.checkbox-custom:focus + .checkbox-custom-label, .radio-custom:focus + .radio-custom-label {
-	// outline: 1px solid $border-color;
-}
+// .checkbox-custom:focus + .checkbox-custom-label, .radio-custom:focus + .radio-custom-label {
+// 	outline: 1px solid $border-color;
+// }
 
 // Disabled
 
