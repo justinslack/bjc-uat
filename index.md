@@ -1,6 +1,6 @@
 ---
 layout: home-page
-title: Budget Justice Coalition Home Page
+title: Home Page
 description: The Budget Justice Coalition aims to collaboratively build people's participation in and understanding of South Africa's budget and planning processes.
 ---
 
