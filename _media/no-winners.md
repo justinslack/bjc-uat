@@ -13,7 +13,7 @@ Cape Town, 25 October 2018 – Rather than taking bold steps to stimulate the ec
 
 The country faces continued underfunding of social sectors, especially health, education and social development. Although a useful scapegoat in the face of Treasury’s dearth of new ideas, the public sector wage that is not the cause of our problems. Austere debt targets and a refusal to increase key tax rates are limiting government’s revenue raising potential. Billions of Rands foregone from two decades of decreasing corporate and personal income tax rates and a failure to crack down on tax evasion are a central cause of our budget deficit.
 
-** The BJC is concerned about the following:**
+**The BJC is concerned about the following:**
 
 - The MTBPS flags tax shortfalls of R27.4 billion for 2018/19. Yet despite pressing social needs over the medium term, the MTBPS commits government to “maintain the main budget expenditure ceiling” and “avoid increases in major tax instruments”, thus reducing room for counter-cyclical borrowing and spending, and shrinking the space for anti-inequality policies. We continue to proposean increase in personal income tax rates for high-income earners, raising corporate income tax rates moderately, the institution  of a higher VAT rate on luxury goods, cutting tax-breaks for the wealthy and increasing taxation of wealth;
 - While there have been some important reprioritisations, many line items are worse off under this budget;

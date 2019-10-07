@@ -84,7 +84,7 @@ img {
 // Layout items
 
 .component-wrapper {
-  @include rem(padding, 0 16px);
+  @include rem(padding, 0 32px);
   padding-bottom: 5rem;
 }
 
