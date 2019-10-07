@@ -13,18 +13,29 @@
 }
 
 .main-tagline {
-	@include font-size(60);
+	@include font-size(40);
 	line-height: 1.2;
 	padding: 0 2.5rem;
 	max-width: 1100px;
+
+	@include breakpoint(45em) {
+		@include font-size(60);
+	}
+
 }
 
 .secondary-tagline {
-	@include font-size(30);
+	@include font-size(20);
 	color: $elf-green;
 	line-height: 1.5;
-	padding: 0 4rem;
+	padding: 0 1rem;
 	max-width: 1060px;
+
+	@include breakpoint(45em) {
+		@include font-size(30);
+		padding: 0 4rem;
+	}
+
 }
 
 .home-feature {

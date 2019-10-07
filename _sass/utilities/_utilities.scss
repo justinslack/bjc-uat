@@ -14,11 +14,30 @@
   border-radius: 50px;
   box-shadow: 0 10px 20px 0 rgba(0,0,0,0.1);
   display: flex;
-  height: 100px;
+  flex-direction: column;
   justify-content: space-between;
   max-width: 1100px;
   padding: 2rem 3rem;
+  text-align: center;
   width: 100%;
+
+  @include breakpoint(47.5em) {
+    flex-direction: row;
+    // flex-wrap: wrap;
+    height: 100px;
+    justify-content: space-between;
+  }
+
+}
+
+.toolbar-button, .toolbar-description {
+  display: block;
+  margin-bottom: 1rem;
+
+  @include breakpoint(47.5em) { 
+    margin-bottom: 0;
+  }
+  
 }
 
 .toolbar-description {

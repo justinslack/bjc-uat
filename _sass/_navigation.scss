@@ -3,9 +3,12 @@
 .navigation {
   align-items: center;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
   @include breakpoint(58.125em) {
     margin-left: auto;
+    justify-content: flex-start;
   }
 
   ul {
@@ -58,7 +61,10 @@
 }
 
 .button-join {
-  margin-left: auto;
+  margin: auto;
+
+
+
 }
 
 // Internal nav
