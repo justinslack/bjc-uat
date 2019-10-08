@@ -69,16 +69,17 @@
   color: darken($deep-blush, 10%);
   display: inline-flex;
   padding: 0.5rem 0.5rem 0.5rem 1rem;
+  justify-content: center;
   text-decoration: none;
   text-transform: uppercase;
   transition: all 250ms ease-in-out;
-  width: 10rem;
+  width: 12rem;
 
   &:hover {
     border: 2px solid $elf-green;
 
     .read-more-icon {
-      transform: translateX(16px);
+      transform: translateX(12px);
 
       rect, polygon {
         fill: $elf-green;
