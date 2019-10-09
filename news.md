@@ -1,13 +1,13 @@
 ---
 layout: single-page
 title: BJC News and Media
-description: Read the latest news and media releases from the BUdget Justice Coalition
+description: Read the latest news and media releases from the Budget Justice Coalition
 ---
 
 <div class="component-wrapper latest-news">
   <div class="content-container">
     <header class="header-cta">
-      <h2 class="section-header">Latest news and media</h2>
+      <h2 class="section-header">Latest news</h2>
     </header>
   </div>
 
