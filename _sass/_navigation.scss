@@ -93,7 +93,7 @@
     color: $sea-pink;
     text-decoration: none;
 
-    &.active {
+    &.current {
       color: darken($sea-pink, 10%);
       font-weight: 600;
     }

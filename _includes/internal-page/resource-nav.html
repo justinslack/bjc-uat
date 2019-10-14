@@ -4,11 +4,11 @@
       <a href="/resources/">Resources:</a>
     </li>
     {% for link in site.data.nav.resources %}
-      {% assign class = nil %}
-        {% if page.url contains link.url %}
-          {% assign class = 'current' %}
-        {% endif %}
-        <li class=""><a class="" href="{{ link.url }}">{{ link.title }}</a></li>
+    {% assign class = nil %}
+    {% if page.url contains link.url %}
+      {% assign class = 'current' %}
+    {% endif %}
+      <li><a href="{{ link.url }}" class="{{ class }}">{{ link.title }}</a></li>
     {% endfor %}
   </ul>
 </nav>
