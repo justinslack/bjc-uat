@@ -6,14 +6,15 @@ exclude: true
 layout: single-page
 
 ---
-
-<div class="content-container"> 
-  <h2>Page not found</h2>
-  <p>Oops! This page can't be found. It's either moved or no longer exists. You can try finding what you are looking for by visiting the <a href="/">Home page</a> or trying the following pages:</p>
-  <ul class="not-found-link">
-    {% for link in site.data.nav.primary %}
-    <li><a href="{{ link.url }}" class="">{{ link.title }}</a></li>
-    {% endfor %}
-    <li><a href="/get-involved/">Get involved.</li>
-  </ul>
-</div>
+<section class="component-wrapper">
+  <div class="content-container"> 
+    <h2>Page not found</h2>
+    <p>Oops! This page can't be found. It's either moved or no longer exists. You can try finding what you are looking for by visiting the <a href="/">Home page</a> or trying the following pages:</p>
+    <ul class="not-found-link">
+      {% for link in site.data.nav.primary %}
+      <li><a href="{{ link.url }}" class="">{{ link.title }}</a></li>
+      {% endfor %}
+      <li><a href="/get-involved/">Get involved.</li>
+    </ul>
+  </div>
+</section>
