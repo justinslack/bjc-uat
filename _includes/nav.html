@@ -8,10 +8,10 @@
       <ul>
         {% for link in site.data.nav.primary %}
           {% assign class = nil %}
-            {% if page.url contains link.url %}
-              {% assign class = 'current' %}
-            {% endif %}
-            <li class="nav-primary-item"><a class="nav-primary-link" href="{{ link.url }}">{{ link.title }}</a></li>
+          {% if page.url contains link.url %}
+            {% assign class = 'current' %}
+          {% endif %}
+        <li><a href="{{ link.url }}" class="nav-primary-link {{ class }}">{{ link.title }}</a></li>
         {% endfor %}
       </ul>
       <a href="/get-involved/" class="button button-small button-join">Get involved</a>
