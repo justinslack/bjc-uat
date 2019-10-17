@@ -13,10 +13,10 @@ primary:
 resources:
   - title: "Tools"
     url: /tools/
-  - title: "Glossary"
-    url: /glossary/
-  - title: "FAQ"
-    url: /faq/
+  # - title: "Glossary"
+  #   url: /glossary/
+  # - title: "FAQ"
+  #   url: /faq/
   - title: "Links"
     url: /links/
 
