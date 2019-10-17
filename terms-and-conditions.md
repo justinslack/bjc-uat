@@ -1,6 +1,6 @@
 ---
 layout: markdown-page
-title: Terms and Connditions
+title: Terms and Conditions
 category: Templates
 description: The Budget Justince Coalition's web site terms and conditions.
 ---

@@ -14,7 +14,7 @@ input[type="button"] {
   @include rem(min-height, 50px);
   @include rem(min-width, 200px);
   align-items: center;
-  background-color: $button-color;
+  background: $button-color;
   background: linear-gradient(to bottom, $button-color 1%, darken($button-color, 5%) 100%);
   border: 0;
   border-radius: 25px;
@@ -51,6 +51,7 @@ input[type="button"] {
 
   &:hover, &:focus {
     background: linear-gradient(to bottom, darken($button-color, 8%) 1%, darken($button-color, 5%) 100%);
+    // box-shadow: 0 0 3px rgba($color: #000000, $alpha: 1.0) inset;
     color: white;
     text-decoration: none;
   }
