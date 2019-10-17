@@ -1,0 +1,23 @@
+---
+Layout: compress
+---
+
+	{% include header.html %}
+
+	<body>
+  <div class="site-wrapper">
+  {% include nav.html %}
+    <div class="component-wrapper">
+      <div class="content-container">
+        <header class="header-cta">
+          <h2 class="section-header">{{ page.title}}</h2>
+        </header>
+	      {{ content }}
+        {% include site-wide/footer.html  %}
+      </div>
+    </div>
+	</div>
+	<script src="/scripts/app.js"></script>
+	{% include service-worker.html %}
+	</body>
+</html>
