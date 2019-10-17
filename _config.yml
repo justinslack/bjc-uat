@@ -18,7 +18,7 @@ author:
 # -----
 # Build
 
-include: ["_pages"]
+include: ["_pages", "_header"]
 
 permalink: pretty
 
