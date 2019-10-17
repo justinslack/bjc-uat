@@ -196,14 +196,11 @@ $gray-light: #ECEFF1;
 }
 
 .header-cta {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   margin-bottom: 3rem;
-  
-  @include breakpoint(49.375em) {
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-  }
-  
 }
 
 .download-link {
