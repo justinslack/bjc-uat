@@ -81,7 +81,12 @@
   }
   
   li {
-    margin-right: 4rem;
+    margin: 0 0.7rem;
+
+
+    @include breakpoint(45em) {
+      margin-right: 4rem;
+    }
 
     &:first-child {
       font-weight: 600;

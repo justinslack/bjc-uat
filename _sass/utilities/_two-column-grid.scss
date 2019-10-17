@@ -23,7 +23,7 @@
     height: 300px;
     object-fit: cover;
     max-width: 100%;
-    transition: .3s all ease-in-out;
+    transition: 300ms all ease-in-out;
     width: 100%;
 
     &:hover {
@@ -40,9 +40,16 @@
 }
 
 .resource-item {
+  @include rem(margin, 32px 0);
   @include rem(padding, 32px);
   border: 1px solid $border-color;
   box-shadow: 0 2px 50px rgba(0,0,0,0.19);
+  min-height: 21rem;
+
+  @include breakpoint(45em) {
+    margin: 0;
+  }
+
 }
 
 .grid-item-header {
