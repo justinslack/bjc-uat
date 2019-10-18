@@ -183,24 +183,13 @@ blockquote {
 	border-left: 0.5rem solid $elf-green;
 }
 
-// abbr {
-// 	cursor: help;
-// 	position: relative;
-	
-// 	&:hover::after {
-// 		background: $elf-green;
-// 		border-radius: 5px;
-// 		bottom: 100%;
-// 		color: white;
-// 		content: attr(title);
-// 		display: block;
-// 		font-size: 0.75em;
-// 		left: 50%;
-// 		min-width: 8rem;
-// 		padding: 1em;
-// 		position: absolute;
-// 	}
-// }
+abbr {
+	cursor: help;
+	font-feature-settings: "smcp";
+	text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: $upsdell-red;
+}
 
 // Custom headers
 	

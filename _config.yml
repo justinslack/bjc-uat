@@ -34,6 +34,10 @@ exclude:
   - README.md
   - LICENCE
 
+autoprefixer:
+  browsers:
+  - last 1 version
+
 sass:
   style: compressed
   sourcemap: true

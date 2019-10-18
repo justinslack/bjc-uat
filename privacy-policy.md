@@ -7,7 +7,7 @@ description: The Budget Justince Coalition's privacy policy.
 
 ## Website Visitors
 
-Like most website operators, The Budget Justice Coalition (BJC) collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. BJC's purpose in collecting non-personally identifying information is to better understand how BJC's visitors use its website. From time to time, BJC may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Like most website operators, The Budget Justice Coalition (<abbr title="Budget Justice Coalition">BJC</abbr>) collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. BJC's purpose in collecting non-personally identifying information is to better understand how BJC's visitors use its website. From time to time, BJC may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 ## Gathering of Personally-Identifying Information
 
