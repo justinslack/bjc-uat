@@ -23,7 +23,6 @@
 
   @include breakpoint(47.5em) {
     flex-direction: row;
-    // flex-wrap: wrap;
     height: 100px;
     justify-content: space-between;
   }
@@ -31,11 +30,12 @@
 }
 
 .toolbar-button, .toolbar-description {
-  display: block;
+  display: none;
   margin-bottom: 1rem;
 
   @include breakpoint(47.5em) { 
     margin-bottom: 0;
+    display: block;
   }
   
 }
@@ -43,6 +43,7 @@
 .toolbar-description {
   color: darken($deep-blush, 10%);
   font-weight: 600;
+  display: block;
 }
 
 .two-column-text {
@@ -62,6 +63,12 @@
 
   li {
     margin-bottom: 0.5rem;
+  }
+}
+
+.toolbar-mobile {
+  @include breakpoint(47.5em) {
+    display: none;;
   }
 }
 
