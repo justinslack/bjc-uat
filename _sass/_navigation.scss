@@ -62,9 +62,21 @@
 
 .button-join {
   margin: auto;
+}
 
+// Secondary menu
 
+.secondary-menu {
+  list-style-type: none;
 
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+  }
 }
 
 // Internal nav

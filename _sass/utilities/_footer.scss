@@ -10,20 +10,6 @@
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 4rem;
   padding: 2rem 0 0;
-
-  ul {
-    list-style-type: none;
-  }
-
-  a {
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-
-  }
-
 }
 
 .follow-links {

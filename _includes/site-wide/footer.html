@@ -31,10 +31,20 @@
           </svg>
         </a>
       </p>
+      <p>
+        <a class="read-more" href="/get-involved/">Get involved
+          <svg class="read-more-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="8" viewBox="0 0 20 8">
+            <g fill="#E05363" fill-rule="evenodd">
+              <rect width="14.545" height="1.6" y="3.2"/>
+              <polygon points="14.546 0 20 4 14.547 7.999"/>
+            </g>
+          </svg>   
+        </a>
+      </p>
     </div>
     <div>
       <h4>Quick links</h4>
-      <ul>
+      <ul class="secondary-menu">
         {% for link in site.data.nav.primary %}
           {% assign class = nil %}
           {% if page.url contains link.url %}
