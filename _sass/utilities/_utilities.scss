@@ -5,17 +5,6 @@
   max-width: 1100px;
 }
 
-.text-page {
-  ul {
-    padding-left: 1.25rem;
-  }
-
-  li {
-    margin-bottom: 0.875rem;
-  }
-}
-
-
 // Toolbar
 
 .toolbar {
@@ -72,12 +61,32 @@
     break-before: always;
   }
 
+}
+
+.two-column-text, .text-page {
   ul {
-    padding-left: 1.25rem;
+    list-style-type: none;
   }
 
   li {
     margin-bottom: 0.5rem;
+    position: relative;
+    padding-left: 20px;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background-color: $sea-pink;
+      border-radius: 100%;
+      vertical-align: midle;
+      margin-right: 12px;
+      position: absolute;
+      top: 8px;
+      left: 0;
+    }
+
   }
 }
 
