@@ -109,17 +109,10 @@ There is still time to convince the Treasury not to implement the regressive spe
 For further information, contact:
 
 - Daniel McLaren mclaren@section27.org.za 079 901 1453
-
 - Busi Sibeko busi.sibeko@iej.org.za 065 913 6881 (available Thursday only)
-
 - Sibabalwe Gcilitshana sibabalwe@equaleducation.org.za 084 070 4947
-
 - Zukiswa Kota z.kota@ru.ac.za 072 648 3398
-
 - Sacha Knox sacha@spii.org.za 083 688 3158
-
 - Isobel Frye isobel@spii.org.za 084 508 1271
-
 - Gilad Isaacs gilad.isaacs@iej.org.za 082 786 2473
-
 - Neil Coleman neil.coleman@iej.org.za  082 776 5018
