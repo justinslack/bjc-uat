@@ -6,9 +6,12 @@ date: 02 March 2018
 featured-image: 
 thumbnail: /assets/images/budget-one.png
 alt: Progressive tax
+graph-container: eskom
 includejs: eskom-debt.js
 ---
 
-<div id="container"></div>
-<div id="customLegend"></div>
 
+# test this thing
+
+
+Oh hi
