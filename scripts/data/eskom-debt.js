@@ -1,13 +1,16 @@
 Highcharts.chart('container', {
 
   chart: {
-    style: {
-      fontFamily: 'Montserrat'
-    }
+    zoomType: 'x'
   },
 
   title: {
     text: 'Eskom debt over time'
+  },
+
+  subtitle: {
+    text: document.ontouchstart === undefined ?
+        'Click and drag in the plot area to zoom in' : 'Pinch the chart to zoom in'
   },
 
   yAxis: {
@@ -15,6 +18,7 @@ Highcharts.chart('container', {
       text: 'Millions of Rand'
     }
   },
+
   legend: {
     enabled: false
   },
@@ -36,16 +40,9 @@ Highcharts.chart('container', {
   },
 
   series: [{
-    color : '#eb667c',
+    color: '#eb667c',
     name: 'Eskom debt',
     data: [156,	143, 133, 135, 147, 46678, 67057, 77230, 103523, 125125, 149944, 174586, 218199, 242984, 264843, 283542]
-  }],
-
-  responsive: {
-    rules: [{
-      condition: {
-        maxWidth: 500
-      }
   }]
- }
+ 
 });
