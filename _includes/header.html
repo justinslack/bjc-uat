@@ -22,4 +22,12 @@
 
   {% seo %} 
 
+  {% if page.includejs %}   
+    <script src="/scripts/data/highcharts.js" defer></script>
+  {% endif %}
+
+  {% for js in page.includejs %}
+     <script src="/scripts/data/{{page.includejs}}" defer></script>
+  {% endfor %}
+
 </head>
