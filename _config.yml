@@ -47,6 +47,10 @@ collections:
     title: Media
     permalink: /:collection/:path/
     output: true
+  graphs:
+    title: graphs
+    permalink: /:collection/:path/
+    output: true
 
 defaults:
   -
