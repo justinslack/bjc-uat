@@ -15,7 +15,8 @@ Highcharts.chart('eskom', {
 
   yAxis: {
     title: {
-      text: 'Millions of Rand'
+      text: 'Millions of Rand',
+      offset: 70
     }
   },
 
