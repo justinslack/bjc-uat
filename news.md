@@ -14,7 +14,7 @@ description: Read the latest news and media releases from the Budget Justice Coa
 <div class="component-wrapper">
   <div class="content-container">
     <section class="two-column-grid">
-      {% for post in site.media reversed %}
+      {% for post in site.media %}
       <article class="grid-item news-item">
         <figure class="grid-item-figure">
           <a href="{{ post.url }}">
