@@ -13,5 +13,6 @@ collections:
     preview_path: "{{permalink}}"
     fields:
       - { label: "Title", name: title, widget: string }
-      - { label: "Layout", name: layout,  default: "single-layout" }
-      - {label: "Content", name: content, widget: markdown}
+      - { label: "Layout", name: layout, widget: hidden, default: "single-layout" }
+      - { label: "Categories", name: "categories", widget: "select", options: ["standard", "featured"]}
+      - { label: "Content", name: content, widget: markdown }
