@@ -9,5 +9,9 @@ collections:
   - name: 'media'
     label: 'Media'
     folder: '_media/'
+    slug: "{{slug}}"
+    preview_path: "{{permalink}}"
     fields:
       - { label: "Title", name: title, widget: string }
+      - { label: "Layout", name: layout,  default: "single-layout" }
+      - {label: "Content", name: content, widget: markdown}
