@@ -4,30 +4,10 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/images/uploads'
+
 collections:
   - name: 'media'
     label: 'Media'
     folder: '_media/'
-    fields:
-      - { name: Title }
-
-  - label: "Sitewide Options"
-    name: options
-    editor:
-      preview: false
-    files:
-      - label: "Navigation Menu"
-        name: nav
-        file: "_data/nav.yml"
-        fields:
-          - label: "Nav Items"
-            label_singular: "Nav Item"
-            name: topLevelItems
-            widget: list
-            fields:
-              - {label: "Display Text", name: displayText, widget: string}
-              - {label: URL, name: url, widget: string}
-              - label: "Item Type"
-                name: itemType
-                widget: select
-                options: ["Link", "Button"]
+    # fields:
+    #   - { name: Title }
