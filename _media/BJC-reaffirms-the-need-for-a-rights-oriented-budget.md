@@ -1,13 +1,11 @@
 ---
 title: BJC reaffirms the need for a rights-oriented budget
 layout: single-post
-category: standard
-date: 05 October 2019
+categories: standard
 featured-image: /assets/images/budget-speech.jpg
 thumbnail: /assets/images/budget-speech.jpg
-alt: Rights-oriented budget
-weight: 1
 ---
+Test
 
 The Budget Justice Coalition notes the irony of a budget handed down on World Day of Social Justice that slashes R50.3 billion from social expenditure over the next three years. While we recognise the tight financial spot the Treasury has been painted into by widespread corruption, under-delivering departments and failing SOEs, especially Eskom – we urge government to recall its first duty: to ensure the progressive realisation of people's Constitutional rights.
 
@@ -15,10 +13,10 @@ The fiscal framework proposed in this budget bails out Eskom but cuts spending o
 
 The BJC notes the following gaps between rhetoric and reality in the 2019 budget:
 
-- President Ramaphosa’s pledge in SONA that funding will be provided in the budget to ensure the implementation of the outcomes of the Gender Summit – the BJC can find no new funds allocated for this purpose and the Budget Review does not even mention gender inequality nor the Summit
-- The Finance Minister says that the eradication of pit latrines at schools will be prioritised and yet funding for school infrastructure as a whole has been reduced for the second year in a row
-- The Treasury says it is committed to assisting in the fight against corruption and yet no new measures were announced to ensure the blacklisting of corrupt government officials and private actors that facilitated state capture
-- The National Development Plan talks about reducing the cost of living on the poorest in society, and yet the budget announces another round of delays to the extension of the child support grant to orphans, more increases to the fuel price, and below inflation increases to social grants, including the old age pension.
+* President Ramaphosa’s pledge in SONA that funding will be provided in the budget to ensure the implementation of the outcomes of the Gender Summit – the BJC can find no new funds allocated for this purpose and the Budget Review does not even mention gender inequality nor the Summit
+* The Finance Minister says that the eradication of pit latrines at schools will be prioritised and yet funding for school infrastructure as a whole has been reduced for the second year in a row
+* The Treasury says it is committed to assisting in the fight against corruption and yet no new measures were announced to ensure the blacklisting of corrupt government officials and private actors that facilitated state capture
+* The National Development Plan talks about reducing the cost of living on the poorest in society, and yet the budget announces another round of delays to the extension of the child support grant to orphans, more increases to the fuel price, and below inflation increases to social grants, including the old age pension.
 
 We will support government’s efforts to reform state-owned enterprises so long as those reforms do not sacrifice the developmental role that SOEs play as producers of accessible public goods in the pursuit of financial sustainability. The government must for this purpose explore heterodox financing options such as the reprioritization of the mandate of the Public Investment Corporation to support rational, sovereign economic choices.
 
@@ -42,15 +40,11 @@ With the prioritization of infrastructure, we call on the National Department of
 
 We also note with concern that medico-legal claims grew from R28.6 billion in 2015 to R80.4 billion in 2018. During this period, payments claims also increased from R498.7 million to R2.8 billion. To address the "apparent rise in unjustified or excessive claims", the government will be:
 
-- Prioritising improvements in areas where claims of negligence are more prevalent.
-
-- Improving medical record-keeping and recruiting more specialist medical personnel.
-
-- Inspecting public healthcare facilities regularly (through the Office of Health Standards Compliance, which must be adequately funded) to ensure they adhere to norms and standards.
-
-- Strengthening the medico-legal units in provincial departments of health, and recruiting national teams of experts to provide specialist support.
-
-- Referring possible fraudulent-fraud cases to the Special Investigations Unit.
+* Prioritising improvements in areas where claims of negligence are more prevalent.
+* Improving medical record-keeping and recruiting more specialist medical personnel.
+* Inspecting public healthcare facilities regularly (through the Office of Health Standards Compliance, which must be adequately funded) to ensure they adhere to norms and standards.
+* Strengthening the medico-legal units in provincial departments of health, and recruiting national teams of experts to provide specialist support.
+* Referring possible fraudulent-fraud cases to the Special Investigations Unit.
 
 ## Education
 
@@ -77,4 +71,3 @@ We note that the number of subsidy units completed per year are being reduced ov
 Finally, the BJC notes that the budget continues to be exclusionary in its language. A budget that speaks in layperson’s terms is necessary for more public participation. As it is, those who can understand this budget are economists and middle and upper class in the main. The language is positioned for ratings agencies and investor confidence. We call for greater linguistic inclusion. We call for a People’s Budget!
 
 [Download the full submission](/assets/downloads/Budget-Justice-Coalition-5-year-Review-Submission-to-Finance-Committees.pdf)
-
