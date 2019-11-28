@@ -9,4 +9,4 @@ collections:
     label: 'Media'
     folder: '_media/'
     fields:
-      - { name: Title } 
+      - { name: Title }
