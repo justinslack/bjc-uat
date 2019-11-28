@@ -14,5 +14,7 @@ collections:
     fields:
       - { label: "Title", name: title, widget: string }
       - { label: "Layout", name: layout, widget: hidden, default: "single-layout" }
-      - { label: "Categories", name: "categories", widget: "select", options: ["standard", "featured"]}
+      - { label: "Categories", name: "categories", widget: "select", options: ["standard", "featured"], default: "standard"}
+      - { label: "Featured Image", name: "featured-image", widget: "image", required: false}
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: true }
       - { label: "Body", name: body, widget: markdown }
