@@ -10,4 +10,4 @@ collections:
     label: 'Media'
     folder: '_media/'
     fields:
-      - { name: Title }
+      - { label: "Title", name: title, widget: string }
