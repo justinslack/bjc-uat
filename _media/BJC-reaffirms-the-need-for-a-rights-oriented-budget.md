@@ -5,8 +5,6 @@ categories: standard
 featured-image: /assets/images/budget-speech.jpg
 thumbnail: /assets/images/budget-speech.jpg
 ---
-Test
-
 The Budget Justice Coalition notes the irony of a budget handed down on World Day of Social Justice that slashes R50.3 billion from social expenditure over the next three years. While we recognise the tight financial spot the Treasury has been painted into by widespread corruption, under-delivering departments and failing SOEs, especially Eskom – we urge government to recall its first duty: to ensure the progressive realisation of people's Constitutional rights.
 
 The fiscal framework proposed in this budget bails out Eskom but cuts spending on education, health care and housing, and makes no new proposals to tackle inequality. For example, the bulk of tax revenue continues to come from VAT, which is paid by everyone, and a Personal Income Tax bracket creep that is paid by all workers. This fails to target higher income earners and ignores the need for much greater taxation of wealth: the main source of SA’s inequality.
