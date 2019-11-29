@@ -15,6 +15,7 @@ collections:
   - name: media
     label: Media
     folder: _media/
+    create: true
     slug: {{slug}}
     preview_path: _media/{{slug}}
     fields:
