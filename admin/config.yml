@@ -13,7 +13,7 @@ media_folder: 'assets/images/uploads'
 
 collections:
   - name: 'media'
-    label: 'Media'
+    label: 'Media item'
     folder: '_media/'
     create: true
     slug: "{{slug}}"
