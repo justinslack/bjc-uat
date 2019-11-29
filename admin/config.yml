@@ -12,11 +12,11 @@ logo_url: https://budgetjusticesa.org/assets/svg/logo.svg
 media_folder: 'assets/images/uploads'
 
 collections:
-  - name: 'media'
-    label: 'Media'
-    folder: '_media/'
-    slug: "{{slug}}"
-    preview_path: "{{permalink}}"
+  - name: media
+    label: Media
+    folder: _media/
+    slug: {{slug}}
+    preview_path: _media/{{slug}}
     fields:
       - { label: "Title", name: title, widget: string }
       - { label: "Layout", name: layout, widget: hidden, default: "single-layout" }
