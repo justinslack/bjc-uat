@@ -1,11 +1,10 @@
 ---
-title: Civil society calls on Parliament to support progressive taxation and halt proposed regressive measures
+title: >-
+  Civil society calls on Parliament to support progressive taxation and halt
+  proposed regressive measures
 layout: single-post
-category: standard
-date: 23 February 2018
-featured-image: 
+categories: standard
 thumbnail: /assets/images/budget-one.png
-alt: Progressive tax
 ---
 
 As civil society organisations we are alarmed at the regressive taxation measures proposed in the 2018 Budget Speech, particularly the proposed VAT and fuel levy increases. While we recognise the need to raise additional revenue for the national fiscus, the proposals made to Parliament by Minister Gigaba make the tax regime more regressive and stand to exacerbate already unacceptably high levels of poverty and inequality.
