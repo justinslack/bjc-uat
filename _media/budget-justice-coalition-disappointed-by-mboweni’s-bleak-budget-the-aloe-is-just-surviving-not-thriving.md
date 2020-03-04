@@ -3,6 +3,7 @@ title: >-
   Budget Justice Coalition Disappointed by Mboweni’s Bleak Budget: The Aloe is
   just surviving, not thriving!
 layout: single-post
+date: 04 March 2020
 categories: featured
 featured-image: /assets/images/uploads/budget-speech.jpg
 thumbnail: /assets/images/uploads/budget-speech.jpg
