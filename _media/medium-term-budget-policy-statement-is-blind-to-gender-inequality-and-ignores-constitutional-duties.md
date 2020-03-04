@@ -1,12 +1,15 @@
 ---
-title: A Medium Term Budget Policy Statement that is blind to gender, inequality and ignores Constitutional duties on the state cannot take our country forward
-layout: single-post
-category: featured
-date: 31 October 2019
-featured-image: /assets/images/budget-speech.jpg
-thumbnail: /assets/images/budget-speech.jpg
 alt: Rights-oriented budget
+layout: single-post
+thumbnail: /assets/images/uploads/news.jpg
+date: 31 October 2019
+title: >-
+  A Medium Term Budget Policy Statement that is blind to gender, inequality and
+  ignores Constitutional duties on the state cannot take our country forward
 weight: 1
+categories: standard
+featured-image: /assets/images/uploads/news.jpg
+category: featured
 ---
 
 The Budget Justice Coalition is concerned that the 2019 MTBPS proposes a deepening of austerity (cutting expenditure to address debt) in the country. 
