@@ -1,7 +1,7 @@
 ---
 title: >-
-  BUDGET JUSTICE COALITION: ESCALATION OF MEASURES TO COMBAT COVID-19 EPIDEMIC
-  PRIORITISES LIVES, BUT NOT LIVELIHOODS  
+  Escalation of measures to combat COVID-19 epidemic prioritizes lives, but not
+  livelihoods
 layout: single-post
 categories: standard
 featured-image: /assets/images/uploads/corona-4959447_960_720.jpg
