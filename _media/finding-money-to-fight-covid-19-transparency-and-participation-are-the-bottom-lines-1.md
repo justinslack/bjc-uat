@@ -5,13 +5,13 @@ categories: standard
 featured-image: /assets/images/uploads/sune-wcape-budget-1600x800.jpg
 thumbnail: /assets/images/uploads/sune-wcape-budget-1600x800.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -50,9 +50,9 @@ thumbnail: /assets/images/uploads/sune-wcape-budget-1600x800.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -631,9 +631,9 @@ thumbnail: /assets/images/uploads/sune-wcape-budget-1600x800.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,7 +659,7 @@ thumbnail: /assets/images/uploads/sune-wcape-budget-1600x800.jpg
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -669,17 +669,13 @@ Evidence is piling up that millions of people are suffering as a result of a los
 
 Given the likelihood of ongoing restrictions on work and movement for the remainder of the year at least, the BJC believes the state can and must do more to prioritise its available resources to support the health care needs, incomes, livelihoods and access to food *for everyone*.
 
-<!--\[if !supportLists]-->1.<!--\[endif]--> The economic relief package
-
-
+<!--\\[if !supportLists]-->1.<!--\\[endif]--> The economic relief package
 
 At **R500 billion**, approximately [10% of GDP](http://www.thepresidency.gov.za/speeches/statement-president-cyril-ramaphosa-further-economic-and-social-measures-response-covid-19), the total size of the economic relief package is significant. The BJC is however concerned about how much new money is actually being provided, where it is coming from and who it will benefit.
 
+**R130 billion is to come from budget reprioritisation.** While we accept that some money will be saved as a result of the lockdown, such as travel and accommodation costs, expenditure on infrastructure, for example, should not be saved as unspent funds, but rather reallocated once the lockdown is over in order to help stimulate the economy. To-date, no clear indication has been given about which line items will be targeted for savings.In the past, [BJC has raised concerns](https://budgetjusticesa.org/assets/downloads/Budget-Justice-Coalition-5-year-Review-Submission-to-Finance-Committees.pdf) around declines in per capita expenditure on health, education and housing. While it recognises that some projects will be halted as a result of COVID-19, many of these can be postponed to the next budget year. **The return to an austerity budget promised by the National Treasury after COVID-19 will only deepen the economic and social destruction exacerbated by the virus – when a massive stimulus will instead be needed.**
 
-
-**R130 billion is to come from budget reprioritisation.**While we accept that some money will be saved as a result of the lockdown, such as travel and accommodation costs, expenditure on infrastructure, for example, should not be saved as unspent funds, but rather reallocated once the lockdown is over in order to help stimulate the economy. To-date, no clear indication has been given about which line items will be targeted for savings.In the past, [BJC has raised concerns](https://budgetjusticesa.org/assets/downloads/Budget-Justice-Coalition-5-year-Review-Submission-to-Finance-Committees.pdf) around declines in per capita expenditure on health, education and housing. While it recognises that some projects will be halted as a result of COVID-19, many of these can be postponed to the next budget year. **The return to an austerity budget promised by the National Treasury after COVID-19 will only deepen the economic and social destruction exacerbated by the virus – when a massive stimulus will instead be needed.**
-
-BJC understands that almost **R100 billion is being sought from international finance institutions**: the IMF, World Bank and New Development Bank. Historically, finance from the IMF and World Bank has come with huge costs, including requirements to cut future spending, that have negatively impacted many countries in the Global South. BJC thus demands transparency on the conditions the government may be exposing future generations of South Africans to by taking money from these institutions. The BJC calls on the government to reject finance that comes with conditions which impact our sovereign policy discretion and are anti-poor, and to focus on domestic resource mobilisation instead.
+BJC understands that almost **R100 billion is being sought from international finance institutions**: the IMF, World Bank and New Development Bank. Historically, finance from the IMF and World Bank has come with huge costs, including requirements to cut future spending, that have negatively impacted many countries in the Global South. BJC thus demands transparency on the conditions the government may be exposing future generations of South Africans to by taking money from these institutions. The BJC calls on the government to reject finance that comes with conditions which impact our sovereign policy discretion and are anti-poor, and to focus on domestic resource mobilisation instead*.
 
 The BJC raises questions about the **R200 billion of finance guarantees to support businesses.**As the Treasury is guaranteeing these loans, they could end uphaving implications for future expenditure. If there are many defaults on the loans, the cost will be absorbed by the public purse. As a contingent liability, **the loans can and should be absorbed by the South African Reserve Bank instead**. Relief for businesses should not come at the expense of realising and protecting human rights in the future.
 
@@ -693,7 +689,7 @@ Government must undertake a developmental quid pro quo for taxpayer funded busin
 
 BJC would like to know if the **R4.5 billion estimate cost of the military deployment fits into this package.**
 
-<!--\[if !supportLists]-->2.<!--\[endif]--> The Government has not done enough to prevent or address the rising levels of hunger
+<!--\\[if !supportLists]-->2.<!--\\[endif]--> The Government has not done enough to prevent or address the rising levels of hunger
 
 **The total budget allocated for social grants is not adequate.**At least 55% of SA’s population (30 million people) live below the Stats SA poverty line of R1 267 per person per month (in 2020 Rands) and yet **the R50 billion allocated for the social grant component of the disaster relief package represents only a tenth of the total economic relief package of R500 billion.**
 
@@ -703,17 +699,15 @@ Prior to COVID-19, [Oxfam-SA](https://www-cdn.oxfam.org/s3fs-public/file_attachm
 
 **The social relief package is insufficient, inequitable and punitive to women and children**. On 21 April 2020 the President announced that child support grant (CSG) beneficiaries will receive an extra R300 in May and from June to October they would receive an additional R500 each month. But subsequent briefings by SASSA, the Minister of Social Development and the Minister of Finance, indicate that although all CSGs will be increased by R300 in May, from June the R500 increase attached to the CSG is a single increase for the caregiver (the recipient of the money) rather than the child (the beneficiary for whom the money is intended). This backtracking on the President’s promises to children saves the state R13 billion, yet combined with the closure of school feeding programmes, and restrictions on caregivers’ eligibility for the COVID 19 grant and food parcels, plunges families with children into destitution. On this, the following points should be considered:
 
-<!--\[if !supportLists]-->·<!--\[endif]-->Given the increases that have now been announced for all the other grants, modelled estimates show that if the CSG increase is attached to the caregiver rather than each child, **this will leave 2 million more people below the food poverty line** than would be the case if the increase were attached to every child.
+<!--\\[if !supportLists]-->·<!--\\[endif]-->Given the increases that have now been announced for all the other grants, modelled estimates show that if the CSG increase is attached to the caregiver rather than each child, \*\*this will leave 2 million more people below the food poverty line\*\* than would be the case if the increase were attached to every child.
 
-<!--\[if !supportLists]-->·<!--\[endif]-->The relief package does not acknowledge or cater for the fact that, in addition to job losses and rising food costs, around 10 million children have since mid-March lost their daily main meals **due to the closure of schools, the National School Nutrition Programme, and ECD feeding schemes**.
+<!--\\[if !supportLists]-->·<!--\\[endif]-->The relief package does not acknowledge or cater for the fact that, in addition to job losses and rising food costs, around 10 million children have since mid-March lost their daily main meals \*\*due to the closure of schools, the National School Nutrition Programme, and ECD feeding schemes\*\*.
 
-<!--\[if !supportLists]-->·<!--\[endif]-->The 7.1 million caregivers who receive CSGs on behalf of children have been excluded from accessing the new R350 Covid-19 grant. **The majority of these caregivers (around 6 million) were unemployed or working in the informal sector prior to lockdown.**
+<!--\\[if !supportLists]-->·<!--\\[endif]-->The 7.1 million caregivers who receive CSGs on behalf of children have been excluded from accessing the new R350 Covid-19 grant. \*\*The majority of these caregivers (around 6 million) were unemployed or working in the informal sector prior to lockdown.\*\*
 
-<!--\[if !supportLists]-->·<!--\[endif]-->In addition, the government’s roll out of emergency food parcels to date has been far too small to meet the vast need created by the nationwide lockdown. The 250 000 distributed parcels that the President announced on 21 April is a small fraction of what is needed when around 15 million people may be experiencing hunger.
+<!--\\[if !supportLists]-->·<!--\\[endif]-->In addition, the government’s roll out of emergency food parcels to date has been far too small to meet the vast need created by the nationwide lockdown. The 250 000 distributed parcels that the President announced on 21 April is a small fraction of what is needed when around 15 million people may be experiencing hunger.
 
-
-
-<!--\[if !supportLists]-->3.<!--\[endif]--> Considerations on the unemployment COVID-19 grant
+<!--\\[if !supportLists]-->3.<!--\\[endif]--> Considerations on the unemployment COVID-19 grant
 
 The allocation for the special COVID-19 grant is approximately R20 billion over six months, but it does not extend to the majority of people in need. The special COVID-19 grant is intended for unemployed individuals who do not have access to a social grant or UIF payment. Calculations by SALDRU show that there **are approximately 15 million people who could qualify for the grant.**
 
@@ -727,13 +721,13 @@ The amount of the proposed COVID-19 grant, at R350 per month, is even lower than
 
 <!--EndFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -772,9 +766,9 @@ The amount of the proposed COVID-19 grant, at R350 per month, is even lower than
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1353,9 +1347,9 @@ The amount of the proposed COVID-19 grant, at R350 per month, is even lower than
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1381,7 +1375,7 @@ The amount of the proposed COVID-19 grant, at R350 per month, is even lower than
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1399,13 +1393,13 @@ Reconfiguring the social grant disaster relief package
 
 <!--EndFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -1444,9 +1438,9 @@ Reconfiguring the social grant disaster relief package
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -2025,9 +2019,9 @@ Reconfiguring the social grant disaster relief package
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2053,11 +2047,11 @@ Reconfiguring the social grant disaster relief package
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-<!--\[if !supportLists]-->4.<!--\[endif]--> Food retailers need to provide COVID-19 relief, not exploit the disaster
+<!--\\[if !supportLists]-->4.<!--\\[endif]--> Food retailers need to provide COVID-19 relief, not exploit the disaster
 
 Poor access to food may be exacerbated by the unscrupulous behaviour of the big four food retailers, Shoprite/Checkers, Pick n Pay, Spar and Woolworths. Rather than stepping up to ensure access to affordable, nutritious food during the COVID-19 crisis, evidence is emerging that these retail giants are continuing to increase the price of food staples relied on by low-income families.
 
@@ -2065,7 +2059,7 @@ A Food Price Barometer report published on 28 April by the [Pietermaritzburg Eco
 
 This is especially problematic when informal traders are still not on the streets to offer more affordable alternatives, and the major retailers are [positioning themselves](https://power987.co.za/news/listen-shoprite-pick-n-pay-roll-out-spaza-shops-in-townships/) to exploit the financial distress experienced by existing spaza shops by opening their own spazas in townships.
 
-<!--\[if !supportLists]-->5.<!--\[endif]--> The COVID-19 response must be based on human rights
+<!--\\[if !supportLists]-->5.<!--\\[endif]--> The COVID-19 response must be based on human rights
 
 The concept of an economy that is fair and equitable, respecting people’s dignity, is simple. This has been enshrined in the Constitution and in international human rights instruments ratified by South Africa post-1994 at the United Nations and the African Union.
 
@@ -2074,6 +2068,8 @@ In the context of a global pandemic, investments in the human rights to safe hou
 The promotion, protection and realisation of human rights cannot be simply implied in the economic responses outlined by the government, but must be explicitly addressed. The government is obligated to take measures to prevent, or at least to mitigate against, the human rights impacts of COVID-19, and to ensure that everyone’s rights are protected, with particular consideration for marginalised and vulnerable populations, including foreign nationals residing and working in South Africa.
 
 South Africa’s COVID-19 responses should provide impetus for the long-term mobilisation of resources and capacity toward the fulfilment of all socio-economic rights, to further the spirit of the South African constitution.
+
+\*AIDC does not support this section / paragraph. Please see note at the end of the document outlining the AIDC's position.
 
 **For media enquiries contact:**
 
@@ -2088,5 +2084,17 @@ Julia Chaskalson [Chaskalson@section27.org.za](mailto:Chaskalson@section27.org.z
 Civic organisations who are part of the [Budget Justice Coalition](https://budgetjusticesa.org/) include: the Alternative Information and Development Centre (AIDC), the Children’s Institute at UCT (CI), Corruption Watch (CW), the Dullah Omar Institute at UWC (DOI), Equal Education (EE), Equal Education Law Centre (EELC), the Institute for Economic Justice (IEJ), OxfamSA, Pietermaritzburg Economic Justice and Dignity Group (PMEJD), the Public Service Accountability Monitor (PSAM), the Rural Health Advocacy Project (RHAP), SECTION27, and the Treatment Action Campaign (TAC).
 
 The purpose of the Budget Justice Coalition is to collaboratively build people’s understanding of and participation in South Africa’s planning and budgeting processes – placing power in the hands of the people to ensure that the state advances social, economic and environmental justice, to meet people’s needs and wellbeing in a developmental, equitable and redistributive way in accordance with the Constitution.
+
+\*AIDC notes that the BJC calls for increased transparency in relation to loans from international creditors. While increased transparency is important, the AIDC does not agree with this formulation. Instead in the unfolding context we think that it is more economically and politically beneficial to demand the cancellation of debt repayments and to prioritise the mobilisation of domestic finances at concessionary interest rates. This should be the priority. Further, a wealth tax must be more seriously explored to raise additional financial resources for both urgent and medium term measures. 
+
+In the context where income tax revenues will fall dramatically, South Africa should first seek to liberate pools of domestic finances before further indebting itself (in spite of the fact that we do not see rising debt as a problem in itself).
+
+Particularly given that there are no guarantees that the Rand will not depreciate any further in the future.
+
+Consequently, the risk of rising repayments on any foreign denominated loan that may be more expensive in the future, is a risk that is not necessary to take.
+
+Moreover, many have been demanding for the cancelation of bad debts, including the US$3.75bn from the world bank in 2010. Taking a loan undermines demands to have these bad debts riddled with corruption written off.
+
+AIDC rejects all loans from the IMF, World Bank and the New Development Bank.
 
 <!--EndFragment-->
