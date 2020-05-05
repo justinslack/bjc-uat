@@ -669,7 +669,7 @@ Evidence is piling up that millions of people are suffering as a result of a los
 
 Given the likelihood of ongoing restrictions on work and movement for the remainder of the year at least, the BJC believes the state can and must do more to prioritise its available resources to support the health care needs, incomes, livelihoods and access to food *for everyone*.
 
-<!--\[if !supportLists]-->1.<!--\[endif]-->The economic relief package
+<!--\[if !supportLists]-->1.<!--\[endif]--> The economic relief package
 
 
 
@@ -693,7 +693,7 @@ Government must undertake a developmental quid pro quo for taxpayer funded busin
 
 BJC would like to know if the **R4.5 billion estimate cost of the military deployment fits into this package.**
 
-<!--\[if !supportLists]-->2.<!--\[endif]-->The Government has not done enough to prevent or address the rising levels of hunger
+<!--\[if !supportLists]-->2.<!--\[endif]--> The Government has not done enough to prevent or address the rising levels of hunger
 
 **The total budget allocated for social grants is not adequate.**At least 55% of SA’s population (30 million people) live below the Stats SA poverty line of R1 267 per person per month (in 2020 Rands) and yet **the R50 billion allocated for the social grant component of the disaster relief package represents only a tenth of the total economic relief package of R500 billion.**
 
@@ -713,7 +713,7 @@ Prior to COVID-19, [Oxfam-SA](https://www-cdn.oxfam.org/s3fs-public/file_attachm
 
 
 
-<!--\[if !supportLists]-->3.<!--\[endif]-->Considerations on the unemployment COVID-19 grant
+<!--\[if !supportLists]-->3.<!--\[endif]--> Considerations on the unemployment COVID-19 grant
 
 The allocation for the special COVID-19 grant is approximately R20 billion over six months, but it does not extend to the majority of people in need. The special COVID-19 grant is intended for unemployed individuals who do not have access to a social grant or UIF payment. Calculations by SALDRU show that there **are approximately 15 million people who could qualify for the grant.**
 
@@ -2057,7 +2057,7 @@ Reconfiguring the social grant disaster relief package
 
 <!--StartFragment-->
 
-<!--\[if !supportLists]-->1.<!--\[endif]-->4. Food retailers need to provide COVID-19 relief, not exploit the disaster
+<!--\[if !supportLists]-->4.<!--\[endif]--> Food retailers need to provide COVID-19 relief, not exploit the disaster
 
 Poor access to food may be exacerbated by the unscrupulous behaviour of the big four food retailers, Shoprite/Checkers, Pick n Pay, Spar and Woolworths. Rather than stepping up to ensure access to affordable, nutritious food during the COVID-19 crisis, evidence is emerging that these retail giants are continuing to increase the price of food staples relied on by low-income families.
 
@@ -2065,7 +2065,7 @@ A Food Price Barometer report published on 28 April by the [Pietermaritzburg Eco
 
 This is especially problematic when informal traders are still not on the streets to offer more affordable alternatives, and the major retailers are [positioning themselves](https://power987.co.za/news/listen-shoprite-pick-n-pay-roll-out-spaza-shops-in-townships/) to exploit the financial distress experienced by existing spaza shops by opening their own spazas in townships.
 
-<!--\[if !supportLists]-->2.<!--\[endif]-->The COVID-19 response must be based on human rights
+<!--\[if !supportLists]-->5.<!--\[endif]--> The COVID-19 response must be based on human rights
 
 The concept of an economy that is fair and equitable, respecting people’s dignity, is simple. This has been enshrined in the Constitution and in international human rights instruments ratified by South Africa post-1994 at the United Nations and the African Union.
 
