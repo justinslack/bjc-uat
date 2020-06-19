@@ -240,7 +240,7 @@ $gray-light: #ECEFF1;
   border-left: 0;  
   border-right: 0;
   color: $elf-green;
-  display: block;
+  display: flex;
   padding: 2rem 1rem;
   text-decoration: none;
   transition: all 250ms ease-in-out;
@@ -251,7 +251,8 @@ $gray-light: #ECEFF1;
 
 
   svg {
-    float: left;
+    flex-shrink: 0;
+    flex-grow: 0;
     margin-right: 1.5rem;
   }
 
