@@ -27,4 +27,14 @@ For Budget Justice Coalition's detailed analysis of the Supplementary Budget, cl
 
 ENDS
 
+<!--StartFragment-->
+
+For media queries, contact Phemelo Khaas Phemelok@corruptionwatch.org.za 0837633472 Julia Chaskalson Chaskalson@section27.org.za 0834402674
+
+ABOUT THE BUDGET JUSTICE COALITION: Civil society organisations who are part of the Budget Justice Coalition include: the Alternative Information and Development Centre (AIDC), the Children’s Institute at UCT (CI), Corruption Watch (CW), the Dullah Omar Institute at UWC (DOI), Equal Education (EE), Equal Education Law Centre (EELC), the Institute for Economic Justice (IEJ), OxfamSA, Pietermaritzburg Economic Justice and Dignity (PMEJD), the Public Service Accountability Monitor (PSAM), the Rural Health Advocacy Project (RHAP), SECTION27, and the Treatment Action Campaign (TAC).
+
+The purpose of the Budget Justice Coalition is to collaboratively build people’s understanding of and participation in South Africa’s planning and budgeting processes – placing power in the hands of the people to ensure that the state advances social, economic and environmental justice, to meet people’s needs and wellbeing in a developmental, equitable and redistributive way in accordance with the Constitution, including the obligations of the progressive realisation of socio-economic rights contained in the South African Constitution.
+
+<!--EndFragment-->
+
 <!--EndFragment-->
