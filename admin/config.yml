@@ -43,4 +43,4 @@ collections:
             widget: list
             fields:
               - { label: "Document name", name: "documentname", widget: "string" }
-              - { label: "Document", name: "document", widget: "file" }
+              - { label: "Document", name: "link", widget: "file" }
