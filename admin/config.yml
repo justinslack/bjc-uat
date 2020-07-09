@@ -26,8 +26,8 @@ collections:
       - { label: "Thumbnail", name: "thumbnail", widget: "image", required: true }
       - { label: "Body", name: body, widget: markdown }
 
-  - name: "pages"
-    label: "Pages"
+  - name: "advocacy"
+    label: "Advocacy"
     files:
       # Advocacy
       - name: "advocay"
