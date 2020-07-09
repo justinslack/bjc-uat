@@ -33,7 +33,7 @@ collections:
       - name: "advocay"
         label: "Advocacy page"
         delete: false
-        file: "advocacy.html"
+        file: "advocacy.md"
         slug: "{{slug}}"
         create: false
         fields:
