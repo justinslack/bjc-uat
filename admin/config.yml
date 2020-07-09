@@ -4,7 +4,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 display_url: https://budgetjusticesa.org
 logo_url: https://budgetjusticesa.org/assets/svg/logo.svg
