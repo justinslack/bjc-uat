@@ -2,9 +2,12 @@
 layout: single-page
 title: Advocacy
 description: Find out about the work of the Budget Justice Coalition.
-uploads: 
+uploads:
   - link: SubmissiontoTreasuryonProcurementBill_June2020.pdf
-    documentname: Submission To The Select And Standing Committees On Finance On The 2020 Supplementary Budget
+    documentname: Submission To The Select And Standing Committees On Finance On The
+      2020 Supplementary Budget
+  - link: /assets/images/uploads/20200630bjcsubmissiontofinancecommitteesonsupplementarybudget.pdf
+    documentname: Submission To Appropriations Committee On 2020 Appropriation Bill
 ---
 
 <div class="component-wrapper">
