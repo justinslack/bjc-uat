@@ -37,7 +37,7 @@ collections:
         slug: "{{slug}}"
         create: false
         fields:
-          - name: documents
+          - name: uploads
             label: "Documents"
             label_singular: "Document"
             widget: list
