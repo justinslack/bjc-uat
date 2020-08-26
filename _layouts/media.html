@@ -9,7 +9,7 @@ layout: single-page
         <a href="/news/" class="button button-small">See all</a>
       </header>
       <section class="two-column-grid">
-        {% for post in site.media %}
+        {% for post in site.media reversed %}
         <article class="grid-item news-item">
           <figure class="grid-item-figure">
             <a href="{{ post.url }}">
