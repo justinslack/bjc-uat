@@ -4,7 +4,7 @@ title: >-
   just surviving, not thriving!
 layout: single-post
 date: 04 March 2020
-categories: featured
+categories: standard
 featured-image: /assets/images/uploads/budget-speech.jpg
 thumbnail: /assets/images/uploads/budget-speech.jpg
 ---
