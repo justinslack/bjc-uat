@@ -31,10 +31,8 @@ Finally, **Section 5** speaks to broader questions of budget reform and the need
 * At the same time, more resources must be mobilised from high net wealth and income individuals and businesses. 
 * In particular, SARS must be capacitated to combat tax evasion and avoidance and implement new tax instruments on wealth and the digital economy
 
-
-
 <!--EndFragment-->
 
-**To read the full *Imali Yesizwe* document, go here:** https://drive.google.com/file/d/1uzCYD6S3MziFZIbbY1WawoRkIaGy-4w8/view?usp=sharing 
+**To read the full *Imali Yesizwe* document, go here:** [https://drive.google.com/file/d/1uzCYD6S3MziFZIbbY1WawoRkIaGy-4w8/view?usp=sharing ](https://drive.google.com/file/d/1uzCYD6S3MziFZIbbY1WawoRkIaGy-4w8/view?usp=sharing)
 
-**To endorse the *Imali Yesizwe* document, go here:** https://docs.google.com/forms/d/e/1FAIpQLSeBPcu_KQinWShUdAqE5dZmVwvxOsSO2sqbjISMPOhegW2ftg/viewform?usp=sf_link
+**To endorse the *Imali Yesizwe* document, go here:** <https://docs.google.com/forms/d/e/1FAIpQLSeBPcu_KQinWShUdAqE5dZmVwvxOsSO2sqbjISMPOhegW2ftg/viewform?usp=sf_link>
