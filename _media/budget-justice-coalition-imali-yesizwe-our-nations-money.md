@@ -5,7 +5,7 @@ categories: featured
 featured-image: /assets/images/uploads/whatsapp-image-2020-10-15-at-16.04.46.jpeg
 thumbnail: /assets/images/uploads/whatsapp-image-2020-10-15-at-16.04.46.jpeg
 ---
-**Executive Summary of Imali Yesizwe**
+**Executive Summary of Imali Yesizwe (Our Nation's Money) - an alternative human-rights based budget for South Africa.** 
 
 The budget and budget processes are critical the advancement and protection of human rights. Civil society has noted with increasing concern the continued steps by National Treasury and the South African government to cut back on the social spending that is needed to fulfil socio-economic rights which are enshrined by the South African constitution and international law. For the past five years and more, National Treasury have cut much needed resources to health, education, social development, local government and housing but all the while prioritizing expensive extractive infrastructure projects, predatory private public partnerships as well as the prioritisation of debt repayments. COVID-19 has accelerated these trends and made the country more dependent on external multilateral financing institutions like the International Monetary fund. These moves, the Budget Justice Coalition (BJC) believes, are regressive and represent the entrenchment of austerity budgeting in South Africa.
 
