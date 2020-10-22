@@ -33,6 +33,6 @@ Finally, **Section 5** speaks to broader questions of budget reform and the need
 
 <!--EndFragment-->
 
-**To read the full *Imali Yesizwe* document, go here:** [https://drive.google.com/file/d/1uzCYD6S3MziFZIbbY1WawoRkIaGy-4w8/view?usp=sharing ](https://drive.google.com/file/d/1uzCYD6S3MziFZIbbY1WawoRkIaGy-4w8/view?usp=sharing)
+**To read the full *Imali Yesizwe* document, go here:** <https://budgetjusticesa.org/assets/downloads/BJC-Imali_Yesizwe-22oct.pdf>
 
 **To endorse the *Imali Yesizwe* document, go here:** <https://docs.google.com/forms/d/e/1FAIpQLSeBPcu_KQinWShUdAqE5dZmVwvxOsSO2sqbjISMPOhegW2ftg/viewform?usp=sf_link>
