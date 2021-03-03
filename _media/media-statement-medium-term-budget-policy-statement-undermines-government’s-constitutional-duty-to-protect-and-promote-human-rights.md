@@ -2,7 +2,7 @@
 title: "Media statement: Medium-Term Budget Policy Statement undermines
   government’s constitutional duty to protect and promote human rights"
 layout: single-post
-categories: featured
+categories: standard
 featured-image: /assets/images/uploads/minister-of-finance-delivers-supplementary-budget.jpg
 thumbnail: /assets/images/uploads/minister-of-finance-delivers-supplementary-budget.jpg
 ---
