@@ -1,7 +1,7 @@
 ---
 title: Budget Justice Coalition -  Imali Yesizwe (Our Nation's Money)
 layout: single-post
-categories: standard
+categories: featured
 featured-image: /assets/images/uploads/whatsapp-image-2020-10-15-at-16.04.46.jpeg
 thumbnail: /assets/images/uploads/whatsapp-image-2020-10-15-at-16.04.46.jpeg
 ---
