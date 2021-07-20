@@ -4,7 +4,7 @@ title: "Media statement: Budget Justice Coalition Statement on the Unrest in
 layout: single-post
 categories: standard
 featured-image: ""
-thumbnail: /assets/images/uploads/bjc-final-logo.jpg
+thumbnail: /assets/images/uploads/sune-wcape-budget-1600x800.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <w:WordDocument>
