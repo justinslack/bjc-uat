@@ -2,7 +2,7 @@
 title: "Media statement: Budget Justice Coalition Statement on the Unrest in
   South Africa"
 layout: single-post
-categories: standard
+categories: featured
 featured-image: ""
 thumbnail: /assets/images/uploads/sune-wcape-budget-1600x800.jpg
 ---
