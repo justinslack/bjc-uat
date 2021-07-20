@@ -3,7 +3,7 @@ title: "Media statement: Budget Justice Coalition Statement on the Unrest in
   South Africa"
 layout: single-post
 categories: standard
-featured-image: /assets/images/uploads/bjc-final-logo.jpg
+featured-image: ""
 thumbnail: /assets/images/uploads/bjc-final-logo.jpg
 ---
 <!--\[if gte mso 9]><xml>
