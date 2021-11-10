@@ -8,6 +8,9 @@ uploads:
       2020 Supplementary Budget
   - link: /assets/images/uploads/20200630bjcsubmissiontofinancecommitteesonsupplementarybudget.pdf
     documentname: Submission To Appropriations Committee On 2020 Appropriation Bill
+  - documentname: "Funding and Expenditure in the Basic Education Sector: A look at
+      key trends and issues"
+    link: /assets/images/uploads/bjc-basic-education-position-paper-final.pdf
 ---
 
 <div class="component-wrapper">
