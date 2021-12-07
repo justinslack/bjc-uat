@@ -1,7 +1,7 @@
 ---
 title: "Vacancy: Coalition Organiser (Independent Contractor)"
 layout: single-post
-categories: standard
+categories: featured
 featured-image: /assets/images/uploads/bjc-final-logo.jpg
 thumbnail: /assets/images/uploads/bjc-final-logo.jpg
 ---
