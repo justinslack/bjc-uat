@@ -2,28 +2,27 @@
 title: "Vacancy: Coalition Organiser (Independent Contractor)"
 layout: single-post
 categories: featured
-featured-image: /assets/images/uploads/bjc-final-logo.jpg
-thumbnail: /assets/images/uploads/bjc-final-logo.jpg
+featured-image: /assets/images/uploads/vacancy.png
+thumbnail: /assets/images/uploads/vacancy.png
 ---
-**1 year contract
-Start date: 03 January 2022**
+**1 year contract**
 
+
+**Start date: 03 January 2022**
 
 The Budget Justice Coalition (BJC) is a coalition of twenty civil society organisations and social movements who seek to hold government accountable for the full and equal enjoyment of socio-economic rights in South Africa. BJC activities include enhancing public knowledge and participation in South Africa’s budget and planning processes; and analysing, campaigning and mobilising the public to demand budget policies that advance social, economic and environmental justice. 
-
 
 The Coalition Organiser plays a vital role in ensuring that proper systems and processes are in place to enable the coalition, the Steering Committee and sub-committees, to function efficiently and effectively. The Organiser is a pro-active, helpful individual who shares the coalition members’ passion for social justice.
 The Organiser is the first point of contact for a number of specified internal and external matters and communications and is therefore a key communicator within the coalition. The Organiser will seek to encourage participation by members in the activities of the coalition, organise meetings, follow up on commitments, and provide assistance to members in the execution of their tasks within the coalition.
 
-
 **Key tasks and responsibilities**
+
+
 *Meetings*
 
 * Organise, coordinate and actively participate (where possible) in BJC general meetings, workshops, steering committee meetings and sub-committee meetings. 
 * Take minutes and circulate these promptly with agreed action items. 
 * Take on organising and administrative tasks identified at coalition meetings, subject to availability. 
-
-
 
 *Coalition building*
 
@@ -35,16 +34,12 @@ The Organiser is the first point of contact for a number of specified internal a
 * Identify and communicate funding opportunities for the coalition.
 * Assist in the preparation and submission proposals and reports to donors.
 
-
-
 *Internal communications and information management*
 
 * Maintain BJC records through a Google Drive which is up to date, well organised, and easily accessible to members at all times. 
 * Maintain internal communications (WhatsApp and email) platforms as well as external communications platforms (currently email, Twitter and Facebook).
 * Support the management of the BJC website by uploading content and ensuring that the content is well organised and up to date, regularly monitoring use and functionality. 
 * Manage a quarterly newsletter for the coalition.
-
-
 
 *Coalition advocacy and other activities*
 
@@ -55,15 +50,12 @@ The Organiser is the first point of contact for a number of specified internal a
 * Provide assistance with logistical arrangements for meetings and other activities.
 * Where agreed, represent the coalition in external meetings from time to time.
 
-
-
 **Education and experience**
 
 * At least 3-5 years’ experience of project management and/or administration, including having responsibility for internal communications.
 * Experience working in civil society or government is advantageous.
 * Experience as a participant or coordinator of coalitions or similar networks is highly advantageous.
 * University degree in a relevant field is preferred.
-
 
 **Key skills**
 
@@ -79,7 +71,6 @@ BJC will give effect to employment equity principles and practices when selectin
 
 **Location**
 As SECTION27 is the host of BJC funds, the Organiser will be contracted by SECTION27. BJC does not operate from a central premises and the Organiser may work from a location of their choice within the borders of South Africa, so long as they are easily contactable and available to travel within South Africa when necessary for coalition engagements.
-
 
 **Application**
 Please forward your curriculum vitae and a one page motivation as to why you are interested in and suitable for the position to applications@section27.org.za by 12 December 2021. Late applications will not be considered, and only shortlisted candidates will be contacted for interview.
