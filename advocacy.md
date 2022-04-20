@@ -6,6 +6,8 @@ uploads:
   - documentname: "Funding and Expenditure in the Basic Education Sector: A look at
       key trends and issues"
     link: /assets/images/uploads/bjc-basic-education-position-paper-final.pdf
+  - documentname: Test
+    link: /assets/images/uploads/2019-11-BJC-Key-Points-from-the-MTBPS.pdf
 ---
 
 <div class="component-wrapper">
