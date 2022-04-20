@@ -13,7 +13,7 @@ uploads:
     <header class="header-cta">
       <h2 class="section-header">Advocacy</h2>
     </header>
-    <!-- <article class="bottom-margin">
+    <article class="bottom-margin">
       <p>Download pdf documents of BJC submissions.</p>
       {% for pdf in page.uploads %}
       <a href="{{ pdf.link }}" class="download-link" download>
@@ -21,7 +21,7 @@ uploads:
         {{ pdf.documentname }}
         {% endfor %}
       </a>
-    </article> -->
+    </article>
     <article class="bottom-margin">
       <p>Download pdf documents of BJC submissions.</p>
       <a href="/assets/downloads/funding-and-expenditure-in the-basic-education-sector.pdf" class="download-link" download>
