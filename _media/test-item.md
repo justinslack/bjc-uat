@@ -5,16 +5,43 @@ categories: standard
 featured-image: /assets/images/uploads/budget-two.png
 thumbnail: /assets/images/uploads/news.jpg
 ---
-## Header
+## Design Process
 
-Lorem i**psum dolo**r, sit amet consectetur *adipisicing elit. Adipisci*, impedit dolorem aspernatur eligendi reprehenderit maiores a nobis voluptate, recusandae dolore nisi voluptas sit maxime, voluptatem quisquam eaque enim? [Eligendi, possimus](https://google.com)?
+Process flow and current tools
 
-> Lorem i**psum dolo**r, sit amet consectetur *adipisicing elit.*
+* Miro for product definition, research, analysis, information architecture and wire-framing
 
-* Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+* Sketch for UI design and prototyping
 
-1. Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-2. Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-3. Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+* Zeplin for developer hand off
+
+* Storybook for front-end components
+
+### UX Process -Miro
+
+### Product definition
+
+Define context and purpose 
+Define business goals
+Define users
+
+Research
+
+Compile qualitative data about the target audience, such as their needs, wants and behaviour.
+Understand competitors and industry standards
+
+Analysis
+
+Create personas (if required)
+Create user stories
+Map user flows
+
+Information architecture and wire-framing
+
+Organise and label the content of of the application
+Wireframe as a foundation for mockups and prototypes
+Collect real data from API if available 
+
+UI Process - Figma
+
+Create design specification and library - fonts, colours, all visual design assets
