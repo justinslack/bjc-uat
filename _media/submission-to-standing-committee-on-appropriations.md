@@ -64,6 +64,8 @@ For South Africa, this requires greater investment in primary healthcare service
 The challenge, then, is whether or how the 2022/23 budget and accompanying health sector strategies can create effective post-pandemic recovery in the face of these multiple pressures. What is painfully clear is that we cannot do so by simply reverting to pre-pandemic strategies as if the landscape has not changed. 
 
 For the 2022/23 budget, allocations to health stay relatively the same at 2020/21 levels, seeing a 1% increase for 2022/23, with a 0.2% growth over the MTEF period. In real terms, this means consolidated healthcare expenditure falls by 4.3% (before accounting for estimated increases in healthcare users), and a 15% decrease in per person expenditure over the MTEF. We can assume these declines are partially due to subsiding Covid-related costs. Nonetheless, this leaves little room to strengthen the responsiveness of the system to resolve health inequities unmasked during the pandemic. Below we consider key outcomes from the 2022 budget and their potential impacts or challenges faced.
+
+
 ●	We are glad to see changes to the health component of the Equitable Share Formula. The new variables used to calculate the risk-adjusted index introduce weightings sensitive to the greater burdens carried by rural areas. These changes may not be enough to correct for the significance of inequities between rural and urban, however this is a step in the right direction. Whether this translates to greater health outcomes remains dependent on efficiency of spending. 
 ●	The lack of new funding for Primary Healthcare Services is worrying, given the dire need to address regression in screening, testing and treatment rates for infectious and non-communicable diseases caused by Covid. How this will be addressed by provincial departments of health remains to be seen.
 ●	Without increased funding to hire additional healthcare workers, the freeze on filling critical and vacant posts is set to continue. This curtails potential efficiency of outcomes across all health programmes. Treasury further recognises the danger posed here by recommending a review of policies around staffing norms in regard to affordability. A welcome R3.3 billion over the MTEF is allocated to funding medical interns and community service doctors requiring placement. Changing this enables a potential lifeline to an under-capacitated workforce, depending on whether their placement is able to counteract the existing maldistribution versus substantial need.
@@ -104,13 +106,11 @@ The online platform to access the grant is exclusionary the introduction of digi
 
 Permanent basic income support for those aged 18 to 59 years with little to no income is inevitable given the government's constitutional and international human rights obligations. Despite the undignified and inadequate value of the SRD Grant, and its systemic flaws, it is a work in progress and provides the most immediate pathway to a permanent basic income support programme and ultimately a universal basic income.   
 
-Income support for children
+**Income support for children**
 
 More than half of South Africa’s population – around 31 million people – have been born since 1994. If everything were equal, all these people would have been born into adequate living environments that did not pose a risk to them. They would have received immunisation and the health care they needed. They would have received nurturing care and early stimulation, sufficient nutrition and a decent education.
 
-
 But everything is not equal in South Africa. Nearly three decades into democracy, most children are born poor and the infrastructure and services available to them remain very unequal. Investments in childhood are not discretionary awards: they are the enactment of the socio-economic rights that are enshrined in the Constitution, which sought to remedy the injustices of the past. And they are investments in the country, in the next generation of parents and workers, in social cohesion and in the economy. It is an economic and political imperative to build a stronger, better-nourished, better-educated population.
-
 
 South Africa’s social assistance programme has been acclaimed as among the most effective anti-poverty strategies in the post-apartheid era. Social grants are firmly rooted in rights frameworks and enabling legislation, and they are efficient in targeting and transferring much-needed cash to poor households. The Child Support Grant (CSG) is the most pro-poor of all the grants: unlike the other grants, it is narrowly targeted via a low means test. Instead of harnessing and building on this anti-poverty resource, the past two budgets have effectively cut its value. 
 
@@ -118,15 +118,11 @@ The increase on the CSG, from R460 to R480 per month, is lower than the other, m
 
 The CSG already received a below-food inflation increase in 2021. In 2022 the increase is again below inflation (headline year-on-year CPI as at January 2022). The CSG is falling behind relative to other established grants and the cost of basic food. It is 23% below the food poverty line, the absolute minimum needed to meet basic nutritional needs for survival and development. The fact that the CSG is already substantially below the food poverty line (R624/month) means that child malnutrition and stunting will persist and even rise. This has long term consequences for society and the economy, as well as the individual people affected.
 
-
 The Pietermaritzburg Economic Justice & Dignity Group monitors the cost of a basket of basic food. They calculate that the average cost of feeding a child a basic nutritious diet is R770 a month in 2022. Even with its increase in 2022/23, the CSG is 40% below this line.
-
 
 Stats SA’s upper-bound poverty line is R1335. This is the amount needed each month to provide an individual with the basic necessities of life, including food and other basic essentials like clothing, shelter and energy. In 2022/23 the CSG will be 64% below this line.
 
-
 The below-inflation increases will be most severely felt in the poorest 20% of households where inflation was 6.7% (decile 1) and 6.1% (decile 2). 30% of all children in SA (over 6 million) live in the poorest 20% of households.
-
 
 The increase to R480 is what was projected in the previous MTEF. However, we note with concern that the previous MTEF also projected the nominal value of the grant staying constant in 2023/24 (i.e., remaining at R480 and eroding its real value). This must not happen.
 The 2022/23 increase to the value of the CSG is not enough, and not aligned with any clear benchmark. Some other possibilities are illustrated in the table. (The CSG value is generally kept as a round number, divisible by R10. There may have been intention to increase the CSG by 5% along with other grants, but the amount was rounded down rather than up). At the very least, the CSG should be R490 in the current year to remain equitable.
@@ -144,7 +140,6 @@ a)   very young children (under 2 years) whose caregivers are eligible but strug
 b)  	increasing numbers of orphaned children living with family, who will enroll on the CSG (rather than the FCG), to receive the new CSG ‘top-up’ (an additional 50% to the value of the CSG).
 
 ## 5. LOCAL GOVERNMENT
-
 
 *In terms of section 227 of the Constitution, local government is entitled to an equitable share of nationally raised revenue to enable it to provide basic services and perform its allocated functions. The local government equitable share is an unconditional transfer that supplements the revenue that municipalities can raise themselves …. (and) provides funding for municipalities to deliver free basic services to poor households (DORB 2022, p 93)*
 
