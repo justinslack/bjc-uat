@@ -19,8 +19,8 @@ Process flow and current tools
 ### Product definition
 
 * Define context and purpose 
-*  Define business goals
-*  Define users
+* Define business goals
+* Define users
 
 ## Research
 
@@ -30,14 +30,16 @@ Understand competitors and industry standards
 Analysis
 
 * Create personas (if required)
-*  Create user stories
-*  Map user flows
+* Create user stories
+* Map user flows
 
 Information architecture and wire-framing
 
-Organise and label the content of of the application
-Wireframe as a foundation for mockups and prototypes
-Collect real data from API if available 
+1. ## **Organise and label the content of of the application.**
+
+2. ## Wireframe as a foundation for mockups and prototypes.
+
+3. ## Collect real data from API if available. 
 
 UI Process - Figma
 
