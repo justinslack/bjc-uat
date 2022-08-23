@@ -5,699 +5,7 @@ categories: standard
 featured-image: /assets/images/uploads/whatsapp-image-2020-10-15-at-16.04.46.jpeg
 thumbnail: /assets/images/uploads/rights-one.png
 ---
-<!--\[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<!\[endif]-->
 
-<!--\[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <w:DoNotOptimizeForBrowser/>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
-
-<!--\[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="376">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hashtag"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Unresolved Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Link"/>
- </w:LatentStyles>
-</xml><!\[endif]-->
-
-<!--\[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0in 5.4pt 0in 5.4pt;
-	mso-para-margin:0in;
-	line-height:115%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Arial",sans-serif;
-	mso-ansi-language:EN-GB;}
-</style>
-<!\[endif]-->
-
-<!--StartFragment-->
-
- 
-
- 
-
- 
-
-<!--\[if gte vml 1]><v:shapetype id="_x0000_t75"
- coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
- filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="image1.png" o:spid="_x0000_i1025" type="#_x0000_t75"
- style='width:145.5pt;height:213pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/BONUSN~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
-  o:title=""/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![](file:///C:/Users/BONUSN~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)<!--\[endif]-->
-
- 
-
- 
-
- 
-
- 
 
 **BUDGET JUSTICE COALITION SUBMISSION**
 
@@ -705,105 +13,58 @@ w\:* {behavior:url(#default#VML);}
 
 **2023 MEDIUM TERM EXPENDITURE FRAMEWORK**
 
-
-
-
-
  19 AUGUST 2022
-
- 
 
 |     |
 | --- |
-|     |
-
-
-
-
-
-
-
-**For further information, contact:**
-
- 
-
-Bonus Ndlovu  |  [budgetjusticesa@gmail.com](mailto:budgetjusticesa@gmail.com)  |  074 283 0187
-
-
-
- 
-
-
 
 Introduction
 
- 
-
 The BJC welcomes steps made by government towards greater public participation and transparency in budget processes through the Fiscal Openness Accelerator (FOA) Project, which BJC participates in through the Civil Society Reference Group. We hope that there will be an opportunity for those who have made submissions to engage directly with government on the contents of those submissions.
-
- 
 
 The 2023 Medium Term Expenditure Framework (MTEF) published by National Treasury in July 2022 comes at a time of great hardship for many people in South Africa. While many countries are struggling to recover from the shock of Covid-19, with increased levels of inequality, low growth and high inflation affecting rich and poor nations alike, the destruction and tragic loss of life caused by the war in Ukraine has pushed energy and food prices to record levels, exacerbating and broadening a cost of living crisis impacting working class and middle class households alike, but undoubtedly hitting the poorest hardest.
 
- 
-
 Incessant load shedding continues to hold every area of the economy back, unemployment remains at record levels, malnutrition is rife in poor communities, social grants and state pensions have failed to keep up with moderate levels of inflation in recent years and now offer even less value due to rocketing food, fuel and electricity prices. Women and children face a daily struggle against violence and threats of violence, crime is rife in many communities, and all households face rising debt repayments due to the cumulative 200 basis points increase in interest rates in five consecutive interest rate hikes by the SA Reserve Bank (SARB) since November 2021. At the same time the government must grapple with an ever deepening climate crisis.
-
- 
 
 In this context, BJC believes that the government must take bold steps to drastically lower levels of poverty, inequality and unemployment in South Africa. Rooting out corruption and building state capacity is central to this end. Yet in recent years, public investment has been far too low to stimulate inclusive and sustainable economic growth, the quality of public services has declined precipitously due to deep and consistent budget shortfalls after a decade of spending restraint, and far too few of the people involved in the wholesale capture and looting of the state are facing justice for their crimes.
 
- 
-
 However, government still has many tools available to it to fulfil the promise set out in the Preamble to our 1996 Constitution, which enjoins us to “improve the quality of life of all citizens and free the potential of each person.” This submission highlights the tools and policies that BJC would like to see government utilising to refresh its commitment to that promise, including:
 
-
-
-<!--\[if !supportLists]-->-       <!--\[endif]-->**Dropping the arbitrary and damaging commitment to achieving a primary budget surplus.**
+<!--\\[if !supportLists]-->-       <!--\\[endif]-->\*\*Dropping the arbitrary and damaging commitment to achieving a primary budget surplus.\*\*
 
 South African fiscal policy must ensure that debt management does not come at the cost of regression in fulfilment of socio-economic rights, the undermining of state capacity, and the deterioration of public infrastructure. The costs of these impacts vastly outweigh any short term gains to debt indicators resulting from a budget surplus.
 
-<!--\[if !supportLists]-->-       <!--\[endif]-->**Ensure that funding for all socio-economic rights, including social grants, provides for increases at least in line with CPI inflation and population / service user growth** (i.e. enrollment growth in the case of education), to guard against erosion of the established programmes.
+<!--\\[if !supportLists]-->-       <!--\\[endif]-->\*\*Ensure that funding for all socio-economic rights, including social grants, provides for increases at least in line with CPI inflation and population / service user growth\*\* (i.e. enrollment growth in the case of education), to guard against erosion of the established programmes.
 
-<!--\[if !supportLists]-->-          <!--\[endif]-->The war against the wage bill has resulted in almost 150 000 vacancies across the public sector. Further **cuts to the wage bill pencilled into the 2023 MTEF must be reversed and government should instead prioritise filling all public health and education vacancies** so that these sectors can be stabilised after years of neglect.
+<!--\\[if !supportLists]-->-          <!--\\[endif]-->The war against the wage bill has resulted in almost 150 000 vacancies across the public sector. Further \*\*cuts to the wage bill pencilled into the 2023 MTEF must be reversed and government should instead prioritise filling all public health and education vacancies\*\* so that these sectors can be stabilised after years of neglect.
 
-<!--\[if !supportLists]-->-       <!--\[endif]-->**Implement progressive tax reform targeting high net wealth and medium-high income earners** to reduce debt service costs and raise long term revenue for UBIG and other socio-economic priorities.
+<!--\\[if !supportLists]-->-       <!--\\[endif]-->\*\*Implement progressive tax reform targeting high net wealth and medium-high income earners\*\* to reduce debt service costs and raise long term revenue for UBIG and other socio-economic priorities.
 
-<!--\[if !supportLists]-->-          <!--\[endif]-->**Utilise current revenue overruns to continue the SRD grant while working with civil society to develop a viable Universal Basic Income Grant.**
+<!--\\[if !supportLists]-->-          <!--\\[endif]-->\*\*Utilise current revenue overruns to continue the SRD grant while working with civil society to develop a viable Universal Basic Income Grant.\*\*
 
-<!--\[if !supportLists]-->-          <!--\[endif]-->**BJC requests clearer information on the Gender Responsive Budgeting (GRB) roadmap** and calls for NT and Cabinet to commit to a GRB process that ensures that womxn, with diverse perspectives, and with lived-experience of different contexts, are centred in the process of developing goals, and debating priorities.
+<!--\\[if !supportLists]-->-          <!--\\[endif]-->\*\*BJC requests clearer information on the Gender Responsive Budgeting (GRB) roadmap\*\* and calls for NT and Cabinet to commit to a GRB process that ensures that womxn, with diverse perspectives, and with lived-experience of different contexts, are centred in the process of developing goals, and debating priorities.
 
-<!--\[if !supportLists]-->-          <!--\[endif]-->**Gender responsive budgeting should not be limited to budget allocations and priorities, it must be applied to all public-finance decisions**, such as those relating to ‘fiscal-consolidation’/austerity, borrowing, and taxation.
+<!--\\[if !supportLists]-->-          <!--\\[endif]-->\*\*Gender responsive budgeting should not be limited to budget allocations and priorities, it must be applied to all public-finance decisions\*\*, such as those relating to ‘fiscal-consolidation’/austerity, borrowing, and taxation.
 
-<!--\[if !supportLists]-->-          <!--\[endif]-->**Ensure all budget decisions are informed by human rights obligations**, and when budget cuts are proposed, undertake a participatory human rights impact assessment and publish the findings. In particular, international law requires the country to undertake child impact assessments prior to making any decision that risks erosion of programmes and services for children,
+<!--\\[if !supportLists]-->-          <!--\\[endif]-->\*\*Ensure all budget decisions are informed by human rights obligations\*\*, and when budget cuts are proposed, undertake a participatory human rights impact assessment and publish the findings. In particular, international law requires the country to undertake child impact assessments prior to making any decision that risks erosion of programmes and services for children,
 
 ## [](<>)Fiscal Policy
 
 Despite the multiple crises facing South Africa, the fiscal framework has for more than a decade been narrowly focused on an austerity policy of debt stabilisation through restraining non-interest expenditure (fiscal consolidation). At the same time,  SA Reserve Bank monetary policy has raised interest rates in order to keep inflation within a target range of 3% - 6%. **Therefore, *the broader macroeconomic policy framework is not geared towards sustainable and inclusive development.***
 
-
-
 **The BJC believes that human rights realisation should be at the centre of the country’s macroeconomic policy framework**. This means that fiscal policy must be supportive of broader measures aimed at addressing the scourge of unemployment, poverty and inequality. Rather than growing the economy and hoping that human development will follow, economic and fiscal policy must be people centred. **As BJC sets out at length in our human rights budget, [Imali Yesizwe](https://budgetjusticesa.org/assets/downloads/BJC-Imali_Yesizwe-22oct.pdf), budgeting must be guided by the Constitution and informed by international human rights norms.** Therefore, budget decisions allocating, spending and raising money need to account for how they promote, protect, fulfil and respect rights, in particular, socio-economic rights.
-
- 
 
 The continuous contraction of non-interest expenditure has not crowded in private investment and has led to the increase in the debt levels by slowing down economic growth. Investment levels as measured by Gross Fixed Capital Formation (GFCF) have stagnated across all sectors since 2015. The Economic Reconstruction and Recovery Plan (ERRP) acknowledged that “a significant reduction in the GFCF variable is a troubling development; given that this variable is critical in sustaining and growing the productive base of the economy”. **In the context of decreased private sector investment,  the state can revive the economy through developmental public investments**. This can be done through state-led fiscal stimulus, reversing austerity, and increasing non-interest expenditure levels in line with population growth and the Consumer Price Index (CPI). Public services such as education, healthcare, transport and housing are important in the development of human capital and long term inclusive economic growth. Therefore, higher levels of investment into these public services is necessary to achieve sustainable economic growth. 
 
- 
-
 In addition to ensuring that public services are sufficiently resourced, **the state has an obligation to mobilise the maximum available resources for the realisation of social and economic rights**. **In line with this obligation, we call on the government to capitalise on the commodities boom and tax overrun to expand social and economic support**. Moreover, we need to increase the tax-to-GDP ratio. Between 1996 - 2020, the tax-to-GDP ratio has averaged 24%. This is 41.6% lower than average annual revenue-GDP ratio for [OECD countries](https://mcusercontent.com/dea890fe0dd5d6278998be8a8/files/5461a0d7-b030-75a4-5ef9-f7f49ca778b2/Asghar_Adelzadeh_May_2022_Why_Is_the_South_African_Economy_Stuck_in_Chronic_Crises.01.pdf). Economic modeller, Asghar Adelzadeh, [says](https://mcusercontent.com/dea890fe0dd5d6278998be8a8/files/5461a0d7-b030-75a4-5ef9-f7f49ca778b2/Asghar_Adelzadeh_May_2022_Why_Is_the_South_African_Economy_Stuck_in_Chronic_Crises.01.pdf): “government’s decision to avoid permanent tax increases in the overall tax burden has significantly benefited the country’s well-off class at the expense of the majority.”
 
- 
-
 The current SRD grant has only been budgeted for until March 2023 and remains insufficient at around half of the Food Poverty Line of R624. The South African Revenue Services is still ahead in terms of tax collections. In April for instance, preliminary [results](https://www.businesslive.co.za/bd/economy/2022-04-01-sars-reports-r167bn-surplus-over-budget-estimate/) for tax collection in 2021/22 showed that collection is R16.7 billion above the Treasury's estimate. In addition, commentators have estimated the collections to be between R50 and R100 billion higher than Treasury’s forecast for 2021/22. This provides an opportunity for the Treasury to insert the SRD grant into the MTEF while working with civil society to develop pathways towards a Universal Basic Income Grant (UBIG).
-
- 
 
 **Progressive taxation must now be used** to reduce debt service costs and raise revenue for UBIG and other socio-economic priorities. [AIDC shows](https://www.dailymaverick.co.za/article/2021-02-03-the-great-wealth-tax-debate-how-to-fund-a-constitutional-state/) that just by taxing high income earners at the same effective tax rate (with respect to their “living standards”) that they were taxed in 2000 could raise between R145 and R160 billion in additional revenue each year. In addition, the IEJ has presented a range of [financing options](https://www.iej.org.za/wp-content/uploads/2021/07/IEJ-Policy-Brief-Financing-a-UBIG.pdf) which could be instituted to ensure support to the most vulnerable. **A wealth tax on the wealthiest 1% of the population could raise R143 billion according to researchers at the [Southern Centre for Inequality Studies](https://theconversation.com/coronavirus-why-south-africa-needs-a-wealth-tax-now-137283).** The IEJ has shown that a VAT of 25% on luxury goods would raise an average of R9 billion annually. Collectively, these revenues and other sources of income, for instance a reduction in wasteful and irregular expenditure of up to 30% of the R166 billion reported by the [Auditor General](https://www.agsa.co.za/Portals/0/Reports/PFMA/202021/Citizen's%20Report%20PFMA%202020-21%20FINAL%20-%20no%20spine.pdf?ver=2022-02-22-161944-810) in 2021, could easily finance a UBIG at the Food Poverty Line. Assuming 60% uptake initially, a UBIG at the FPL would cost about R153 billion annually, increasing to 80% uptake over time. Reversal of the regressive 2018 VAT hike is key to address the disproportionate and unfair impacts on poor households, experiencing increased hunger and reeling from the cost of living crisis.
 
 ## [](<>)Gender Responsive Budgeting
 
-Increases in VAT and fuel levies; normalised service delivery failures, such as electricity, water, sanitation; falling investment in healthcare and education; and criminal justice system failure are disproportionately absorbed by poor and working class families, who are forced to compensate for government, and capitalist-system failures, with their time, labour, and resources. Research shows **the roles to manage the deepest impacts of poverty and inequality are overwhelmingly carried by Black womxn[<!--\[if !supportFootnotes]-->\[1]<!--\[endif]-->](#_ftn1) and girls.** For example womxn are mainly responsible for growing, buying, and cooking food; faced with current profound levels of hunger, [NIDS-CRAM](https://cramsurvey.org/reports/) and [Black Sash](https://www.blacksash.org.za/images/Report/0606_BS_-_Children_Social_Assistance_and_Food_Security_Research_Report_V15.pdf) research reveal that women shield children from hunger by going without food for themselves and have to make choices between feeding their children or sending them to school. Womxn and girls bear added impacts on their physical and mental health, ability to engage in economic activity, or school, as a consequence. While also faced with these systemic failures, middle class and wealthy families can, to different degrees, find relief through paying for private education, security, and healthcare, or access to renewable energy. Wealthier families also access greater tax benefits.
+Increases in VAT and fuel levies; normalised service delivery failures, such as electricity, water, sanitation; falling investment in healthcare and education; and criminal justice system failure are disproportionately absorbed by poor and working class families, who are forced to compensate for government, and capitalist-system failures, with their time, labour, and resources. Research shows **the roles to manage the deepest impacts of poverty and inequality are overwhelmingly carried by Black womxn\[<!--[if !supportFootnotes]-->\[1]<!--\\[endif]-->](#_ftn1) and girls.** For example womxn are mainly responsible for growing, buying, and cooking food; faced with current profound levels of hunger, [NIDS-CRAM](https://cramsurvey.org/reports/) and [Black Sash](https://www.blacksash.org.za/images/Report/0606_BS_-_Children_Social_Assistance_and_Food_Security_Research_Report_V15.pdf) research reveal that women shield children from hunger by going without food for themselves and have to make choices between feeding their children or sending them to school. Womxn and girls bear added impacts on their physical and mental health, ability to engage in economic activity, or school, as a consequence. While also faced with these systemic failures, middle class and wealthy families can, to different degrees, find relief through paying for private education, security, and healthcare, or access to renewable energy. Wealthier families also access greater tax benefits.
 
 We recognise in the Technical Guidelines (p11), the shift away from tagging in isolation, towards a more comprehensive approach to gender responsive budgeting (GRB). The explanation that a roadmap has been developed, and that GRB guidelines will be developed as a ‘living’ document is encouraging. **The BJC requests clearer information on the existing roadmap, and looks forward to being invited to engage in greater depth with NT, DWYPD, and DPME to develop the GRB guidelines**, and to engage on strategic planning and monitoring processes to support Departments with articulating their GRB priorities and tagging systems. **We call on NT, DWYPD, and DPME to commit formally, through interdepartmental agreements, to collaboration, transparency, public involvement and public accountability on these GRB processes**.
 
@@ -822,8 +83,6 @@ The South African economy remains disproportionately energy intensive (although 
 **To deal with climate change, the country needs to transition from its reliance on an export-led, extractivist growth model. Central to this would be the need to diversify the SA economy.** Moreover, the country is dependent on Eskom for energy supply, which is generated from coal. Consequently, Eskom contributes significantly to the country’s overall greenhouse gas emissions and big carbon footprint. Therefore, in addition to diversifying the SA economy away from the minerals-energy complex, it is critical that we transition from an energy mix dominated by coal to low-carbon energies such as solar PV and wind for example. In addressing the climate emergency it is equally important to combat mass unemployment. In this regard, the **local manufacturing of renewable energy infrastructure is critical because this is where most of the jobs are in the energy-producing sector**. This will require an import-substitution policy for South African renewable energy infrastructure producers to compete with the international market. 
 
 In addition, **we must harness the resources to invest in improving public infrastructure and retrofitting all public buildings to be more ecologically sustainable and resilient to climate shocks**. This must include measures to fix water leaks, installing decent sanitation at all schools (4000 of which still use pit latrines), the increased roll-out of rainwater harvesting tanks, the replumbing of toilets to use harvested-water and supporting waste pickers.
-
- 
 
 These initiatives could create hundreds of thousands of climate jobs (jobs that contribute to bringing down emissions of greenhouse gases), and should therefore be seen as a priority in context of mass unemployment as we enter a period where extreme weather conditions will become more common and contagious diseases more prevalent, in South Africa and globally. To do so we need large levels of investment. This is unlikely to happen under the for-profit renewable energy model and the auction system. Already we see Bid window 5 facing constraints, “due to onerous local content requirements and pricing that is now inappropriate to global price escalations”.
 
@@ -845,41 +104,29 @@ The public budget, and supporting planning processes, must be ambitious in reduc
 
 South Africa’s unemployment rate is among the highest in the world. Each year the number of new entrants into the job market far exceeds the number of job opportunities, leading to ever-increasing unemployment. According to the [latest Quarterly Labour Force Survey (QLFS)](https://www.statssa.gov.za/publications/P0211/Presentation%20QLFS%20Q1%202022.pdf) the official unemployment rate now stands at 34.4%. But this figure only serves to understate the real extent of unemployment. When discouraged workers are included, the expanded unemployment rate rises to 46.5%. The latest QLFS Q1:2022 indicates that **'Black African women are the ‘most vulnerable’ with an (official) unemployment rate of 40,6%.' Government’s plans to address unemployment have largely been gender blind and focused on the formal economies, with no clear plans for how to improve women’s economic access.**
 
- 
-
 In the two decades following the end of apartheid South Africa’s growth path has been characterised by a rapid relative expansion in the services (or tertiary) sector. It has shifted increasingly towards the provision of services, in particular that of financial and business services, while its labour-intensive productive sectors such as manufacturing, mining and agriculture have stagnated and declined. As a consequence, there has been a trend to the casualisation, informalisation and externalisation of the labour force. Not only has this involved greater insecurity at work but it has created a large proportion of the workforce that are underemployed.
-
- 
 
 **The government’s implementation of budget cuts alongside the increased liberalisation of the South African economy and other austerity measures will only deepen the unemployment crisis**. Even more retrenchments can be expected, especially in light of the R160-billion cut from the public sector wage bill over the next three years. The cuts to the wage bill will not only mean lower wages for the majority of public sector workers, it will need a reduction in the headcount and the continuation of unfilled vacancies in key public sector institutions. Service delivery will deteriorate even further. Government itself has acknowledged how low compensation growth in education will have a negative impact on no-fee schools.  Already, at the Public Sector Summit in March 2022, the Department of Public Service and Administration (DPSA) made a presentation on the state of the public service. Director-General Yoliswa Makhasa reported that 164,661 posts were reported vacant in December 2021, of which 39,367 are in Public Health and 73,088 in Public Education.
 
- 
-
 These policies – beginning with Growth, Employment and Redistribution (GEAR) in post-Apartheid South Africa – advanced the increased role of the private sector, the deregulation of the financial economy and the liberalisation of trade. These policies, centred around an export-oriented growth model that is over-reliant (albeit to a lesser degree) on a mineral-energy complex that is in decline, has driven a process of premature deindustrialisation of the South African economy. This premature deindustrialisation of the SA economy has underpinned the deep levels of unemployment in the country.
-
- 
 
 The Intensifying unemployment crisis underpins many social ills, including incomparably high levels of inequality. **Inequality is a virus that undermines the social fabric and the economy and contributes to increased levels of crime, violence, xenophobia and other social tensions.**
 
-
-
 **To address this deepening crisis requires direct government intervention.** The time for indirect approaches that prioritise liberalisation, austerity and a shrinking state are over. These are the very measures that have resulted in the depth of the crisis.
-
- 
 
 Instead, expansion of state interventions and targeted growth of the public sector are required. This means the immediate implementation of a basic income grant coupled with a government employment guarantee programme geared towards providing basic goods and services to the public. **In the medium term we need to tackle mass unemployment and low wages through investing in the localised productive capacity of the county, particularly directed at driving a low-carbon re-industrialisation programme.**
 
 **Recommendations**:
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Reverse cuts to the public sector wage bill;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Reverse cuts to the public sector wage bill;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Fill the vacancies in the public sector particularly in health care and education;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Fill the vacancies in the public sector particularly in health care and education;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Implement a decent universal basic income grant;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Implement a decent universal basic income grant;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Government must act as employer of last resort, and employ everyone willing and able to work at a living wage; and
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Government must act as employer of last resort, and employ everyone willing and able to work at a living wage; and
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Shift from an export-led growth path to a low-carbon reindustrialisation programme;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Shift from an export-led growth path to a low-carbon reindustrialisation programme;
 
 ### [](<>)Social grants and social protection
 
@@ -909,11 +156,11 @@ During the Covid-19 lockdowns women faced higher levels of job losses, yet did n
 
 **Recommendations:**
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Ensure that all grants receive inflation-linked increases at the very least, prioritising those grants below the food poverty line (the Child Support Grant and the SRD). Increases below food inflation will erode the value of the grants.
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Ensure that all grants receive inflation-linked increases at the very least, prioritising those grants below the food poverty line (the Child Support Grant and the SRD). Increases below food inflation will erode the value of the grants.
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Plan for incremental increases to equalise these grant values with the food poverty line as a minimum in the future
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Plan for incremental increases to equalise these grant values with the food poverty line as a minimum in the future
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Provide permanent social assistance for those who earn no or little income and work towards a UBIG.
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Provide permanent social assistance for those who earn no or little income and work towards a UBIG.
 
 ### [](<>)Health
 
@@ -927,13 +174,13 @@ Health, not just healthcare, is commercially determined. The rise in noncommunic
 
 **Recommendations**
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Withdraw medical scheme credits and withdraw bracket creep adjustments in the 2022 budget
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Withdraw medical scheme credits and withdraw bracket creep adjustments in the 2022 budget
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Increase excise duties on alcohol and tobacco products
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Increase excise duties on alcohol and tobacco products
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Increase and expand the health promotion levy
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Increase and expand the health promotion levy
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Expand the district health conditional grant to improve the responsiveness of publicly funded primary healthcare
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Expand the district health conditional grant to improve the responsiveness of publicly funded primary healthcare
 
 ### [](<>)Education
 
@@ -947,13 +194,13 @@ Not only is the current state of basic education in South Africa unconstitutiona
 
 Basic education must be prioritised in the MTEF, both ensuring the protection of individuals’ constitutional rights, and as a means of investing in and encouraging a prosperous and peaceful society.
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Basic education funding must keep up with CPI and learner enrollment.
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Basic education funding must keep up with CPI and learner enrollment.
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->The right to basic education consists of certain core components which include, among others, safe and appropriate infrastructure, furniture, teaching and learning materials such as textbooks, school meals and scholar transport*.* Adequate funding must be provided to ensure the provision of these services to all learners.
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->The right to basic education consists of certain core components which include, among others, safe and appropriate infrastructure, furniture, teaching and learning materials such as textbooks, school meals and scholar transport\*.\* Adequate funding must be provided to ensure the provision of these services to all learners.
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Covid-19 has placed a severe burden on the basic education system. With learning losses for a large portion of students being equal to or in excess of a year's worth of learning. To mitigate this, basic education must be provided with sufficient resources to implement a widespread and comprehensive catch up programme.
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Covid-19 has placed a severe burden on the basic education system. With learning losses for a large portion of students being equal to or in excess of a year's worth of learning. To mitigate this, basic education must be provided with sufficient resources to implement a widespread and comprehensive catch up programme.
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Ensure that the basic education funding is intersectional and promotes and ensures access to all including, girls, children with disabilities and barriers to learning, foreign and migrant children, and any other group that experiences increased barriers to access to basic education.
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Ensure that the basic education funding is intersectional and promotes and ensures access to all including, girls, children with disabilities and barriers to learning, foreign and migrant children, and any other group that experiences increased barriers to access to basic education.
 
 ### [](<>)Early childhood development
 
@@ -961,17 +208,17 @@ The physiological capital accrued in the first six years of life provides the sc
 
 Less than [25%](https://www.smartstart.org.za/wp-content/uploads/2022/05/ECD-Results-Event-Booklet-INSIDE-SPREADS.pdf) of children (aged 0-5) attend early learning programmes; and only [12%](https://www.dsd.gov.za/index.php/latest-news/21-latest-news/183-social-development-sets-up-workstreams-to-%20conduct-risk-assessment-and-state-of-readiness-for-the-early-childhood-development-ecd-centres) of those that are eligible are subsidised by the state. The value of the subsidy has not kept pace with inflation, undermining its ability to support access to quality services for the most vulnerable children. Underinvestment in ECD services for our young children has meant that patterns of education and employment have not fundamentally changed. As a result, we have missed an opportunity to build and redistribute our national wealth. Investing in ECD programmes as a cost-effective strategy to build South Africa’s care economy also brings many multiplier benefits to women – particularly black women – by supporting the livelihoods of providers, advancing gender equity and stimulating the local economy. Investing in universal access to quality ECD programmes represents an opportunity to:
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Improve skills and working conditions among the existing, mostly women, workforce (estimated between [200 000](https://www.smartstart.org.za/wp-content/uploads/2022/05/ECD-Results-Event-Booklet-INSIDE-SPREADS.pdf) - [300 000](https://womensreport.africa/wp-content/uploads/2021/08/WomensReport_2021.pdf) workers);
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Improve skills and working conditions among the existing, mostly women, workforce (estimated between \[200 000](https://www.smartstart.org.za/wp-content/uploads/2022/05/ECD-Results-Event-Booklet-INSIDE-SPREADS.pdf) - \[300 000](https://womensreport.africa/wp-content/uploads/2021/08/WomensReport_2021.pdf) workers);
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Create over 300 000 additional jobs in the ECD sector, mostly for women;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Create over 300 000 additional jobs in the ECD sector, mostly for women;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Allow (mostly) women primary caregivers to participate in the labour market by ensuring the availability of childcare;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Allow (mostly) women primary caregivers to participate in the labour market by ensuring the availability of childcare;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Stimulate local economies by creating both direct and indirect jobs in communities and stimulating the purchase of local goods and services;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Stimulate local economies by creating both direct and indirect jobs in communities and stimulating the purchase of local goods and services;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Produce significant savings in a range of budget areas, including welfare, social services, health and crime response;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Produce significant savings in a range of budget areas, including welfare, social services, health and crime response;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Grow South Africa’s GDP in the long term by improving returns from basic education and therefore the literacy and productivity of our working population.
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Grow South Africa’s GDP in the long term by improving returns from basic education and therefore the literacy and productivity of our working population.
 
 We recommend the MTEC requests the Treasury to explicitly describe how they intend to invest in an economy that supports care and human capital development by providing details of plans for increasing jobs and investment in the ECD sector.
 
@@ -979,46 +226,36 @@ We recommend the MTEC requests the Treasury to explicitly describe how they inte
 
 Eskom—which generates over 90% of energy consumed in the country—remains in a crisis of multiple dimensions and causes. Eskom’s debt is estimated to be approximately R390-billion. South Africa’s debt problems are strongly intertwined with Eskom’s growing financial woes, with indebted SOEs - including Eskom - being major contributors to the government’s increasing debt-to-GDP ratio. In response, the government, led by the Treasury, has prioritised debt-service costs at the expense of higher levels of social spending. The immediate priority should be to address Eskom’s debt. Given the scale of corruption, a **publicly disclosed forensic audit of all SOE and government debt – with the intention to repudiate the odious debt – is necessary.** In addition, the government employees’ pension fund (GEPF) can play a role. The GEPF has close to R2 trillion in accumulated reserves, most of it under the asset management of the Public Investment Corporation. Each year, the GEPF makes a surplus of between R40 billion and R50 billion. It can invest these surpluses in increasing Eskom’s energy instead of continuing to re-invest in the Johannesburg Stock Exchange, in an already over-financialised economy.  Currently, the GEPF holds approximately 20 percent of Eskom’s debt. It could take on more debt and offer below market interest rates.
 
- 
-
 The adoption of the full-cost recovery model in a context of mass unemployment and inequality – where the excluded majority are unable to afford rising electricity prices - partly contributes to Eskom’s rising debt, as most municipalities are not in a financial position to pay Eskom for the electricity it distributes. With mass unemployment, many (if not most) households cannot afford electricity, even when they are connected to the grid. The introduction of a provision for free basic electricity in 2004 was a step in the right direction, but at just 50KWh per month for poor households that is insufficient to meet even basic requirements. Not only is the provision of free basic electricity (FBE) inadequate, **research by the Public Affairs Research Institute reveals that millions of households that should be getting the free electricity every month, are not**. In 2019 for instance, ​​the national budget provided funding for a total of 9.8 million households to get the free basic services, including the 50kWh of electricity. But only 2 million households were actually getting the free basic electricity from their municipality. This means that they have to pay for that electricity out of their own pockets, leaving them less money to pay for other necessities, like food.
-
- 
 
 **Government must expand the number of households provided with FBE**. This can be done through making the resource provision to municipalities for FBE a conditional share grant. This will reduce the revenues received by municipalities from the sale of electricity. Government should increase the resources allocated to local governments to offset this loss of revenue and to ensure that there is not a further decline in basic services. Furthermore, there should be an increase in the level of FBE provided to households to at least 200kWh per household, per month to ensure adequate provision of electricity.
 
 **Recommendations:**
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Eskom and SOE debt-service cost must not reduce spending on non-interest expenditure;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Eskom and SOE debt-service cost must not reduce spending on non-interest expenditure;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->End the full cost recovery model;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->End the full cost recovery model;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Expand the allocation of FBE to more households;
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Expand the allocation of FBE to more households;
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Provide adequate FBE electricity (i.e. increase the provision of FBE to at least 200kwh per household, per month); and
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Provide adequate FBE electricity (i.e. increase the provision of FBE to at least 200kwh per household, per month); and
 
-<!--\[if !supportLists]-->●         <!--\[endif]-->Increase revenue allocation to local government and make FBE part of local government conditional share grant
+<!--\\[if !supportLists]-->●         <!--\\[endif]-->Increase revenue allocation to local government and make FBE part of local government conditional share grant
 
 ### [](<>)‘Crime’, violence, safety, and justice
 
 Knowledge and practice of ‘what works’ to address violence and realise safety and justice has developed over the last three decades. This extends beyond a narrow focus on the criminal justice system, to include ‘[prevention](https://issafrica.org/chapter-2-crime-prevention-definitions-and-debates)’ measures such as ensuring safe housing, [transport, toilets](https://www.saferspaces.org.za/blog/entry/lights-toilets-taxis-situational-crime-prevention-failures-in-khayelit), parenting support, [ECD](https://www.dailymaverick.co.za/opinionista/2021-09-16-early-childhood-development-policies-can-strike-at-the-heart-of-our-culture-of-violence/), and economic opportunity. Yet ‘**[criminalisation of poverty](https://repository.up.ac.za/bitstream/handle/2263/69037/Killander_Criminalising_2019.pdf?sequence=1&isAllowed=y)**’ persists, with increased policing against ‘petty offences’, the majority of which are linked to the basic necessities of life for people who live in poverty, or those who engage in informal economic activity, or public protest against the rights violations they experience. This is especially noteworthy in light of many acts of “white collar” violence such as tax avoidance, price fixing, fraud and corruption that often go uninvestigated.
 
- 
-
 The National Strategic Plan on Gender-Based Violence and Femicide (NSPGBVF) provides for a multi-stakeholder government-wide coordinated response to gender-based violence and femicide. Of concern is the ongoing political lipservice to ‘*ending the scourge of violence against women*' while the implementation of the NSP lags. The realisation of the NSPGBVF requires ongoing prioritising and sustained political will. **Ensuring that the NSP is costed and these costs translate into departmental budget allocations is fundamental. It is meaningless without resources.** The well documented failures in justice linked to GBV, related to policing, investigations, and prosecutions require investments, primarily in quality human resources, and to a lesser extent to infrastructure. Analysis suggests that instead of making these investments over the past 28 years, SAPS and DoJ have been incentivised to deter reporting and decline prosecutions.
-
- 
 
 Strategies to realise safety and justice require explicit consideration of people’s different vulnerabilities to crime and violence, and the different barriers to justice they face; for e.g., those faced by womxn; children; people with disabilities; (African) migrants and refugees; LGBTQI people. An established evidence base points to the need for services that address the intersections between violence against women and against children. These strategies, so easily articulated in policy, require resource allocations to realise.
 
-<!--\[if !supportFootnotes]-->
-
-
+<!--\\[if !supportFootnotes]-->
 
 - - -
 
-<!--\[endif]-->
+<!--\\[endif]-->
 
-[<!--\[if !supportFootnotes]-->\[1]<!--\[endif]-->](#_ftnref1) ‘Womxn’ is used to denote a gender non-binary meaning, including people who identify as womxn. Where the word ‘women’ is used it is in reference to research that uses gender binaries ‘female’ and ‘male’ - meaning that gender non-conforming people’s experiences are not explicitly included in the study.
+\[<!--[if !supportFootnotes]-->\[1]<!--\\[endif]-->](#_ftnref1) ‘Womxn’ is used to denote a gender non-binary meaning, including people who identify as womxn. Where the word ‘women’ is used it is in reference to research that uses gender binaries ‘female’ and ‘male’ - meaning that gender non-conforming people’s experiences are not explicitly included in the study.
 
 <!--EndFragment-->
