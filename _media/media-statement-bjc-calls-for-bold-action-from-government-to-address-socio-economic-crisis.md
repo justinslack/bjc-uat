@@ -39,5 +39,3 @@ The purpose of the BJC is to collaboratively build people’s understanding of a
 **23 August 2022**
 
 *For media enquiries please contact Phemelo Khaas ([phemelok@corruptionwatch.org.za](mailto:phemelok@corruptionwatch.org.za)) 0837633472*
-
-<!--EndFragment-->
