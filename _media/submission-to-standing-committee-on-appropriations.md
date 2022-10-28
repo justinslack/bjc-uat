@@ -1,9 +1,9 @@
 ---
 title: Submission to Standing Committee on Appropriations
 layout: single-post
-categories: featured
+categories: standard
 featured-image: /assets/images/uploads/sune-wcape-budget-1600x800.jpg
-thumbnail: /assets/images/uploads/budget-one.png
+thumbnail: /assets/images/uploads/budget-two.png
 ---
 **SUBMISSION TO STANDING COMMITTEE ON APPROPRIATIONS**
 
