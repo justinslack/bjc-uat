@@ -2,7 +2,7 @@
 title: "Media Statement: The Budget Justice Coalition calls on Treasury to
   reverse continued cuts to  social spending"
 layout: single-post
-categories: featured
+categories: standard
 featured-image: /assets/images/uploads/analysis.jpg
 thumbnail: /assets/images/uploads/analysis.jpg
 ---
