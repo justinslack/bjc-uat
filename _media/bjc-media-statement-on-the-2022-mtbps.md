@@ -1,7 +1,7 @@
 ---
 title: BJC Media Statement on the 2022 MTBPS
 layout: single-post
-categories: standard
+categories: featured
 featured-image: /assets/images/uploads/analysis.jpg
 thumbnail: /assets/images/uploads/budget-speech.jpg
 ---
